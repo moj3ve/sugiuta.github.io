@@ -1,0 +1,8 @@
+Origin: Sugiuta’s repo
+Label: Sugiuta’s repo
+Suite: stable
+Version: 1.0
+Codename: sugiuta
+Architectures: iphoneos-arm
+Compornent: main
+Description: sugiuta iosdev beginner
