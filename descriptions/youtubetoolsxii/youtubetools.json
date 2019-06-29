@@ -1,6 +1,6 @@
 {
-	"minVersion": "0.1.",
-	"headerImage": "https://sugiuta.github.io/assets/repo/Banner/youtubebanner.png",
+	"minVersion": "0.1",
+	"headerImage": "https://sukarodo.me/assets/Insidious/repository/Banners/RepoHeader.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## YouTube Tools XII\nYoutube Tools XII on a iOS 12.1.2 & below!"
+					"markdown": "## SetRes\nSet your Resolution Safely."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,12 +19,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "0.0.4",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "2019/06/26",
+					"text": "2019/04/25",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -34,12 +34,12 @@
 				},
 				{
 					"title": "Developer",
-					"text": "sugi",
+					"text": "Sukarodo",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "https://github.com/sugiuta",
+					"action": "https://sukarodo.me",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -63,12 +63,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Support A12 & chimera",
+					"markdown": "\t\n\u2022 Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/06/26</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/25</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
