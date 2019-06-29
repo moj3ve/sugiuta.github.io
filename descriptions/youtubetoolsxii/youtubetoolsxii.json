@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://sukarodo.me/assets/Insidious/repository/Banners/RepoHeader.png",
+	"headerImage": "https://sugiuta.github.io/assets/repo/Banner/youtubetoolsxii.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## SetRes\nSet your Resolution Safely."
+					"markdown": "## YoutubeToolsXII\YoutubeToolsXII is YouTube  convinient tool."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -24,7 +24,7 @@
 				},
 				{
 					"title": "Released",
-					"text": "2019/04/25",
+					"text": "2019/06/26",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -34,12 +34,12 @@
 				},
 				{
 					"title": "Developer",
-					"text": "Sukarodo",
+					"text": "sugiuta",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "https://sukarodo.me",
+					"action": "https://sugiuta/sugiuta.github.io",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -57,18 +57,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.0",
+					"title": "0.0.4",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial Release",
+					"markdown": "\t\n\u2022 A12 Support",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/25</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/06/26/</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
