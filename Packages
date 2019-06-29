@@ -70,14 +70,14 @@ Section: Tweaks
 Maintainer: sugi
 Installed-Size: 332
 Filename: ./debs/con.sugi.youtubetoolsxii_0.0.4-1+debug_iphoneos-arm.deb
-Size: 67632
-MD5sum: 81b60f7655993edc0fb9141f436c099d
-SHA1: de09aa2895d54b9ead69bf1fe9fa53849a01b47a
-SHA256: 26cbc939ec4c92fc6b89cab1518ff02267917062762a1de5f240774b62205062
-SHA512: b08528e4eb170f3123dfdb733da3fe991cdbab689661b2b3ede45479ef356c7506467f5ac0b3b5197052dc556a3a706511eb51d32942759e39cd81c14a130333
+Size: 76906
+MD5sum: 353f8f9a45442ffda723b0c6de0a241f
+SHA1: 1ade1a97f0bfaa2e187a817f95fb5f458b3e0984
+SHA256: fa6864dfbb6d419dfa61866c4187430414382c12584eaf3ddb25a3fd9cd2ec9e
+SHA512: dd89d168e165ed30d03e49990c5eedc52c92ebb4a9fcc4a941f211f2007170c65d78269e4ed93dbe8ad7c2c98585a85b184cf8551bcb805db40b40b50bba8556
 Description: Multifunctional tweak for Youtube.
 Name: Youtube Tools XII
-SileoDepiction: https://sugiuta.github.io/description/youtubetoolsxii/youtubetoolsxii.json
+SileoDepiction: https://sugiuta.github.io/descriptions/youtubetoolsxii/youtubetoolsxii.json
 Author: sugi
 
 Package: com.sugi.mangabangpatch
