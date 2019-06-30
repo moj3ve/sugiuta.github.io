@@ -160,6 +160,23 @@ Description: ドックに配置できるアプリの数を5個に増やします
 Name: FiveDockIconXII
 Author: sugi
 
+Package: com.sugi.instagramtoolsxii
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 316
+Filename: ./debs/com.sugi.instagramtoolsxii_0.0.1-1+debug_iphoneos-arm.deb
+Size: 74384
+MD5sum: e8036562ff98e9e38c02591dcc84d68d
+SHA1: 6a48b72e303eba4329b8cab87e7a616a176edbbc
+SHA256: c9219c4ba4f69e49eecbc870c9ed2f29a623d4137728119390935babd21c4550
+SHA512: 4aabe93b6c4bf7733508e8c31e7d687221b5cbe44dc085aaeae98f51567658262e33119f41724bc97004b6b9e80f27d96b8e794cca7fbe6586002ff7d7fb3e94
+Description: Multifunctional tweak for Instagram.
+Name: Instagram Tools XII
+SileoDepiction: https://sugiuta.github.io/descriptions/instagramtoolsxii/instagramtoolsxii.json
+Author: sugi
+
 Package: com.sugi.flex3editpatches
 Architecture: iphoneos-arm
 Version: 0.0.2-1+debug
