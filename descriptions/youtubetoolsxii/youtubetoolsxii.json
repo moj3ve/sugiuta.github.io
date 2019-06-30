@@ -1,7 +1,7 @@
 {
 	"class": "DepictionTabView",
 	"minVersion": "0.1",
-	"headerImage": "https://sugiuta.github.io/assets/repo/youtubetoolsxii/youtubebanner.png",
+	"headerImage": "https://opa334.github.io/depic/SafariPlus/Resources/SileoHeader.png",
 	"tintColor": "#3838af",
 	"tabs":
 	[
@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I am multifunctional.  The main functions are ad deletion, background playback, dark mode (original) and so on.  Support for A12 devices."
+					"markdown": "Youtube Tools XII",
 					"useSpacing": true
 				},
 				{
@@ -21,18 +21,23 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Latest Version",
-					"text": "0.0.4"
+					"text": "1.7~b7"
 				},
 				{
 					"class": "DepictionTableButtonView",
-					"title": "Author",
-					"action" : "https://github.com/sugiuta"
+					"title": "Source Code",
+					"action" : "https://github.com/opa334/SafariPlus"
 				},
 				{
 					"class": "DepictionTableButtonView",
 					"title": "Follow me on Twitter",
-					"action" : "https://twitter.com/uta_sugi"
+					"action" : "https://twitter.com/opa334dev"
 				},
+				{
+					"class": "DepictionTableButtonView",
+					"title": "Donate",
+					"action" : "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=opa334@protonmail.com&item_name=iOS%20Tweak%20Development"
+				}
 			]
 		},
 		{
@@ -42,13 +47,162 @@
 			[
 				{
 					"class": "DepictionSubheaderView",
-					"title": "Version 0.0.4",
+					"title": "Version 1.7~b7",
 					"useBoldText": true
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "**New Features:**\n*A12 Support & Chimera Support."
+					"markdown": "**New Features:**\n* An additional reload button can now be added to the toolbar inside toolbar reordering options\n* Added an option to auto save finished downloads to the media library\n* Added an option to prevent downloads from being saved to the history if they're started from private browsing mode\n* Added an option to have a progress bar under the downloads button inside the toolbar (like on iOS 13), enabled by default \n\n\u2063\n\n **Improvements:**\n* Preview actions for way more files inside file browser (text files, pdf, images, etc.)\n* Better file icons\n* Better directory icon (only on iOS 12, 11 and below still use the old one)\n* Fixed some preference crashes with the toolbar reordering options on iOS 8\n* The UI for download cells has been fully rewritten, now supports dynamic type\n* Fixed a few issues that could cause downloads to become stuck (for real this time, hopefully...)\n* If a download fails due to a connection error, it now cancels and a \"Download Error\" notification shows (previously it would just become stuck)\n* Fixed a potential issue with video downloading",
 					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "June 20, 2019",
+					"useBoldText": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.7~b6",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**New Features:**\n* The ability to manually start downloads from an URL, accessible from the plus button inside the top bar of the downloads list \n\n\u2063\n\n **Improvements:**\n* Unsupported options will now automatically be hidden (based on the iOS version you're running)\n* The \"copy link\" action has been enabled on all downloads, previously it was only available on video downloads\n* Row animations inside the file browser and the downloads list are now way more smooth (Tab Manager soon)\n* The restart button on finished downloads has been improved to use the code related to manual downloading, it no longer opens the website and rather restarts the download directly now\n* The show button on finished downloads will now only show if the file exists\n* The show button on finished downloads has been improved to scroll to the file and highlight it inside it's directory\n* The touchable area of the suggestion insert button has been increased\n* The close button inside the Tab Manager now shows a confirmation alert\n* Fixed the suggestion insert button crashing on iOS 9 and 10\n* Fixed some crashes related to the Tab Manager\n* Fixed a potential issue that could have been related to downloads becoming stuck\n* Fixed a bug that would sometimes cause the file browser to not refresh correctly\n* Fixed a rare crash when pressing the video download button\n* Fixed a crash when multiple downloads end at the same time\n* Fixed an issue that sometimes caused the rocketbootstrap error alert to incorrectly appear\n* Internal code improvements",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "June 1, 2019",
+					"useBoldText": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.7~b5",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "* Tab Manager will now show tab icons on iOS 12 if they are enabled inside Safari settings\n* Fix some crashes related to the Tab Manager\n* Correct preference header aspect ratio on iPads and larger devices",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "May 9, 2019",
+					"useBoldText": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.7~b4",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**New Features:**\n* Suggestion Insert Button\n* Tab Manager (Not fully done yet) \n\n\u2063\n\n **Improvements:**\n* Support for A12 / arm64e\n* Merged fixes from 1.6.8\n* Show an when a download is attempted to be started under cellular data while the 'Only Download on Wifi' option is enabled\n* Renamed 'Second 'Open in new Tab' option to 'Both Tab Open Actions' and changed it's behaviour accordingly\n* FullSafari compatibility has been restored\n* Updated arabic localization, thanks to iA7myd",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "May 1, 2019",
+					"useBoldText": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.7~b3",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "* Several fixes for RTL languages (related to locked tabs and toolbar reordering)\n* Fix stupid oversight that caused lock button icons to not appear on 32 bit devices\n* Minor improvements to how locked tabs are handled",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "April 18, 2019",
+					"useBoldText": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.7~b2",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "* Fixed an issue where the downloads button would not appear when the reordering options are disabled",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "April 15, 2019",
+					"useBoldText": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.7~b1",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**New Features:**\n* Locked Tabs\n* Biometric Protection\n* Custom Start Site\n* Show Tab Count\n* Toolbar Reordering Options\n* Top Bar Reading Button Color\n* Top Bar Tab Bar Close Button Color\n* Tab Switcher Toolbar Background Color \n\n\u2063\n\n**Improvements:**\n* Reworked settings, added killswitch\n* Fixed status bar notifications being too big on some devices\n* Fixed choppy animation when using the \"Open in opposite mode\" option<br>* Fixed desktop mode being always on when \"Desktop Mode Switch\" is disabled inside settings (¯\\\\_(ツ)_/¯)\n* Improved desktop mode switch to feel and look more like the other buttons\n* Switched to libCSColorPicker\n* Reworked Force HTTPS Exceptions and Pinned Locations preferences (seperate plists no longer needed)\n* \"safaripluscolorprefs.plist\" and \"safariplusprefsOther.plist\" are automatically merged into \"safariplusprefs.plist\" on first launch of Safari or Preferences\n* Reworked some color settings to be less hacky\n* Many more bug fixes and improvements (more than I can remember)",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "April 15, 2019",
+					"useBoldText": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.6.7",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**Enhanced Downloads:**\n* Fix an issue where pressing the video download button would sometimes crash on iOS 12 \n\n\u2063\n\n**Action Addons:**\n* Browsing mode switch actions should now work properly again",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "February 25, 2019",
+					"useBoldText": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.6.6",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**General:**\n* iOS 12 Support!\n* Added spanish localization, thanks to Thomas CS\n* Updated italian localization, thanks to Eugenio R \n\n\u2063\n\n**Enhanced Downloads**\n* Fixed an issue where the option to clear all downloads would sometimes not work\n* Improved sandbox detection \n\n\u2063\n\n **Desktop Mode Button:**\n* Internal code improvements\n* Fixed a crash on iOS 8 when the \"Fully disable private browsing\" option is enabled together with this option",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "February 22, 2019",
+					"useBoldText": false
 				},
 			]
 		}
