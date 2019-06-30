@@ -1,7 +1,7 @@
 {
 	"class": "DepictionTabView",
 	"minVersion": "0.1",
-	"headerImage": "https://opa334.github.io/depic/SafariPlus/Resources/SileoHeader.png",
+	"headerImage": "https://sugiuta.github.io/assets/youtubetoolsxii/youtubebanner.png",
 	"tintColor": "#3838af",
 	"tabs":
 	[
@@ -21,22 +21,17 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Latest Version",
-					"text": "1.7~b7"
+					"text": "0.0.4"
 				},
 				{
 					"class": "DepictionTableButtonView",
-					"title": "Source Code",
-					"action" : "https://github.com/opa334/SafariPlus"
+					"title": "Github",
+					"action" : "https://github.com/sugiuta"
 				},
 				{
 					"class": "DepictionTableButtonView",
 					"title": "Follow me on Twitter",
-					"action" : "https://twitter.com/opa334dev"
-				},
-				{
-					"class": "DepictionTableButtonView",
-					"title": "Donate",
-					"action" : "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=opa334@protonmail.com&item_name=iOS%20Tweak%20Development"
+					"action" : "https://twitter.com/uta_sugi"
 				}
 			]
 		},
