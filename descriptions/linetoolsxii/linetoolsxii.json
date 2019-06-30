@@ -1,80 +1,61 @@
 {
-	"minVersion": "0.1.",
+	"class": "DepictionTabView",
+	"minVersion": "0.1",
 	"headerImage": "https://sugiuta.github.io/assets/repo/Banner/youtubebanner.png",
-	"tintColor": "#ffae8e",
-	"tabs": [
+	"tintColor": "#3838af",
+	"tabs":
+	[
 		{
+			"class":"DepictionStackView",
 			"tabname": "Details",
-			"views": [
+			"views":
+			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## LINE Tools XII\nLINE Tools XII on a iOS 12.1.2 & below!"
+					"markdown": "Youtube Tools XII is multifunctional.\n\nThe main functions are ad deletion, background playback, dark keyboard and so on.\n\nSupport for A12 devices.",
+					"useSpacing": true
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"class": "DepictionTableTextView",
 					"title": "Latest Version",
-					"class": "DepictionHeaderView"
+					"text": "0.0.4"
 				},
 				{
-					"title": "Version",
-					"text": "0.1.1",
-					"class": "DepictionTableTextView"
+					"class": "DepictionTableButtonView",
+					"title": "Github",
+					"action" : "https://github.com/sugiuta"
 				},
 				{
-					"title": "Released",
-					"text": "2019/06/26",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Price",
-					"text": "Free",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
-					"text": "sugi",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Website",
-					"action": "https://github.com/sugiuta",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
+					"class": "DepictionTableButtonView",
+					"title": "Follow me on Twitter",
+					"action" : "https://twitter.com/uta_sugi"
 				}
-			],
-			"class": "DepictionStackView"
+			]
 		},
 		{
+			"class":"DepictionStackView",
 			"tabname": "Changelog",
-			"views": [
+			"views":
+			[
 				{
-					"title": "1.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
+					"class": "DepictionSubheaderView",
+					"title": "Version 0.0.4",
+					"useBoldText": true
 				},
 				{
-					"markdown": "\t\n\u2022 Support A12 & chimera",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
+					"class": "DepictionMarkdownView",
+					"markdown": "**New Features:**\n*A12 support & chimera.",
+					"useSpacing": true
 				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/06/26</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
+                         {
+					"class": "DepictionSubheaderView",
+					"title": "June 26, 2019",
+					"useBoldText": false
 				}
-			],
-			"class": "DepictionStackView"
+			]
 		}
-	],
-	"class": "DepictionTabView"
+	]
 }
