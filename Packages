@@ -14,23 +14,6 @@ Description: An awesome MobileSubstrate tweak!
 Name: MusicFM++
 Author: sugi
 
-Package: com.sugi.sbsetting
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 232
-Filename: ./debs/com.sugi.sbsetting_0.0.1-1+debug_iphoneos-arm.deb
-Size: 53572
-MD5sum: d791a33ce3a9a4587ee2211ded8f5d2d
-SHA1: a6fed122f8ff89920501fb7645abcc294cf7eab7
-SHA256: 889712eeda870848ad49d5c81c631c8f4f48c1cf88b666ed47937e9de461091d
-SHA512: c9f7be14cb94552d11a52f078521c0b0293034aaef47dfe9b4292317e6001fc49289eac03fa256363c52cb960d9afd4f2110c6031fc6bd679cce56b799c710a3
-Description: Multifunctional tweak for SpringBoard.
-Name: SBSetting
-SileoDepiction: https://sugiuta.github.io/descriptions/sbsetting/sbsetting.json
-Author: sugi
-
 Package: com.sugi.linetoolsxii
 Architecture: iphoneos-arm
 Version: 0.1.1-1+debug
@@ -65,20 +48,21 @@ Name: Youtube Tools XII
 SileoDepiction: https://sugiuta.github.io/descriptions/youtubetoolsxii/youtubetoolsxii.json
 Author: sugi
 
-Package: com.sugi.mangabangpatch
+Package: com.sugi.sbsetting
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: App Patch
+Version: 0.0.2
+Section: Tweaks
 Maintainer: sugi
-Installed-Size: 72
-Filename: ./debs/com.sugi.mangabangpatch_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3250
-MD5sum: 609cf93d6692f0fbea5e85806a332465
-SHA1: 84d49691e4a34a0c1543b4dd316fd4c6ba739a1d
-SHA256: 2d8e1e089ed733502b0a23688fb862bcb4bffc9ace6ea5b66593bb36f429bac6
-SHA512: df4ae9d9dc1ba4ac73c1680e622f0cdbcf78f7d425107ee3c86c17457959202f9a6264cebf98dbf75de08f394af7506b57552ce208d5df15ed2518dc413d0144
-Description: マンガBANGのフリーコイン、SPコインの枚数を999999にします。金貨もそのように設定されていますが仕様により見た目だけの変更にしています。不正はダメだよね。
-Name: MangaBang-Patch
+Installed-Size: 296
+Filename: ./debs/com.sugi.sbsetting_0.0.2_iphoneos-arm.deb
+Size: 54828
+MD5sum: 68ce4325ae1469dcd15f5c3d9ad6954b
+SHA1: bf1a2ab9cfc7cc27c7ad25683a40e401b8dfcf72
+SHA256: 091433ad10bd4f2db4d43cd98b26504f1be12f6bd956ab6a5dbbe200e7de632e
+SHA512: 2f936e740f9d1eb5710352728faad7b5b0d6397469de06116daf84e98b469877ae3e7953b05f0dd3d708fc8d9b431d1d9adbe773ee1830ad7aa43884a58fc94c
+Description: Multifunctional tweak for SpringBoard.
+Name: SBSetting
+SileoDepiction: https://sugiuta.github.io/descriptions/sbsetting/sbsetting.json
 Author: sugi
 
 Package: com.sugi.noshuttersound++

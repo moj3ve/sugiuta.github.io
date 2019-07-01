@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "SBSetting is multifunctional.\n\nThe main functions are Grid Switcher,iPad Statusbar,iPhoneX Style Dock,Hide Dock Background,Disable Touch Banner,Five Dock Icon and so on.\n\nNot support for A12 devices.",
+					"markdown": "SBSetting is multifunctional.\n\nThe main functions are Grid Switcher,iPad Statusbar,iPhoneX Style Dock,Hide Dock Background,Disable Touch Banner,Five Dock Icon and so on.\n\nSupport for A12 devices./nBut iPad Style Statusbar,iPhoneX Stayle Dock,Five Dock Icon don't use.",
 					"useSpacing": true
 				},
 				{
@@ -40,6 +40,21 @@
 			"tabname": "Changelog",
 			"views":
 			[
+                          {
+					"class": "DepictionSubheaderView",
+					"title": "Version 0.0.2",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**New Features:**\n*A12 Support & chimera.",
+					"useSpacing": true
+				},
+                         {
+					"class": "DepictionSubheaderView",
+					"title": "July, 01, 2019",
+					"useBoldText": false
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"title": "Version 0.0.1",
