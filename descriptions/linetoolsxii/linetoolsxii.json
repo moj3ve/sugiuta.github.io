@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Youtube Tools XII is multifunctional.\n\nThe main functions are ad deletion, background playback, dark keyboard and so on.\n\nSupport for A12 devices.",
+					"markdown": "LINE Tools XII is multifunctional.\n\nThe main functions are Timeline Ad deletion,Theme Free,Hide Story and so on.\n\nSupport for A12 devices.",
 					"useSpacing": true
 				},
 				{
@@ -21,7 +21,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Latest Version",
-					"text": "0.0.4"
+					"text": "0.1.1"
 				},
 				{
 					"class": "DepictionTableButtonView",
@@ -42,7 +42,7 @@
 			[
 				{
 					"class": "DepictionSubheaderView",
-					"title": "Version 0.0.4",
+					"title": "Version 0.1.1",
 					"useBoldText": true
 				},
 				{
