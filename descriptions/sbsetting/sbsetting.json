@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "SBSetting is multifunctional.\n\nThe main functions are Grid Switcher,iPad Statusbar,iPhoneX Style Dock,Hide Dock Background,Disable Touch Banner,Five Dock Icon and so on.\n\nSupport for A12 devices./nBut iPad Style Statusbar,iPhoneX Stayle Dock,Five Dock Icon don't use.",
+					"markdown": "SBSetting is multifunctional.\n\nThe main functions are Grid Switcher,iPad Statusbar,iPhoneX Style Dock,Hide Dock Background,Disable Touch Banner,Five Dock Icon and so on.\n\nSupport for A12 devices.\nBut iPad Style Statusbar,iPhoneX Stayle Dock,Five Dock Icon don't use.",
 					"useSpacing": true
 				},
 				{
