@@ -14,6 +14,12 @@
          "title":"Youtube Tools XII",
          "package":"con.sugi.youtubetoolsxii",
          "hideShadow":false
+      },
+      {
+         "url":"https://sugiuta.github.io/assets/repo/Banner/sbsetting.PNG",
+         "title":"SBSetting",
+         "package":"com.sugi.sbsetting",
+         "hideShadow":false
       }
    ]
 }
