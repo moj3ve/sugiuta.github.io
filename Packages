@@ -14,6 +14,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: MusicFM++
 Author: sugi
 
+Package: com.sugi.sbsetting
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 232
+Filename: ./debs/com.sugi.sbsetting_0.0.1-1+debug_iphoneos-arm.deb
+Size: 53572
+MD5sum: d791a33ce3a9a4587ee2211ded8f5d2d
+SHA1: a6fed122f8ff89920501fb7645abcc294cf7eab7
+SHA256: 889712eeda870848ad49d5c81c631c8f4f48c1cf88b666ed47937e9de461091d
+SHA512: c9f7be14cb94552d11a52f078521c0b0293034aaef47dfe9b4292317e6001fc49289eac03fa256363c52cb960d9afd4f2110c6031fc6bd679cce56b799c710a3
+Description: Multifunctional tweak for SpringBoard.
+Name: SBSetting
+SileoDepiction: https://sugiuta.github.io/descriptions/sbsetting/sbsetting.json
+Author: sugi
+
 Package: com.sugi.linetoolsxii
 Architecture: iphoneos-arm
 Version: 0.1.1-1+debug
