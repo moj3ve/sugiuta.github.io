@@ -37,12 +37,13 @@ Version: 0.0.2
 Section: Tweaks
 Maintainer: sugi
 Installed-Size: 296
+Depends: firmware (>=12.0)
 Filename: ./debs/com.sugi.sbsetting_0.0.2_iphoneos-arm.deb
-Size: 54828
-MD5sum: 68ce4325ae1469dcd15f5c3d9ad6954b
-SHA1: bf1a2ab9cfc7cc27c7ad25683a40e401b8dfcf72
-SHA256: 091433ad10bd4f2db4d43cd98b26504f1be12f6bd956ab6a5dbbe200e7de632e
-SHA512: 2f936e740f9d1eb5710352728faad7b5b0d6397469de06116daf84e98b469877ae3e7953b05f0dd3d708fc8d9b431d1d9adbe773ee1830ad7aa43884a58fc94c
+Size: 62114
+MD5sum: 9b55787c6e70bb3d156c4f3e3653b1e0
+SHA1: fd20af74e6c526d0c8bddb9767dad4bbebf4aa12
+SHA256: 04955158906b8f8279e6d398d76a74780b4dfa734d455ff175c62ca3a2cd21d4
+SHA512: f97d2b45257e46eeaee2762d00e9f8157d20589a3416105083c38c4bd7a141d31f1d5d8f973c9449bc1ef27f8dce64662727f7beab872698e26f0cbbe612f027
 Description: Multifunctional tweak for SpringBoard.
 Name: SBSetting
 SileoDepiction: https://sugiuta.github.io/descriptions/sbsetting/sbsetting.json
