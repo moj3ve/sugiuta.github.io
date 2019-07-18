@@ -65,6 +65,24 @@ Description: カメラのシャッター音と画面収録の音を削除しま�
 Name: No Shutter Sound++
 Author: sugi
 
+Package: com.sugi.sileoenglish
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.sugi.sileoenglish_0.0.1-1+debug_iphoneos-arm.deb
+Size: 1852
+MD5sum: 58894d4e597d558a9eed4c0ea426dcde
+SHA1: 900c3de7fed5f7c49afc0c70718ce97bbd9c25b1
+SHA256: 46cd10bbae0597d14669d5696a76d66e47a4908215fe6798892353c8f6e99d1f
+SHA512: d978d11db1ec8dcb5b7a4728a1300e4737051aa16192c99bd213fe1b6943dde818a6285c7cdec1811d731cf70de1e6568949606d1495fc60bee054877c86e7f9
+Description: Change the translation of Sileo (For Japan).
+Name: Sileo English
+SileoDepiction: https://sugiuta.github.io/descriptions/sileoenglish/sileoenglish.json
+Author: sugi
+
 Package: com.sugi.instagramtoolsxii
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
