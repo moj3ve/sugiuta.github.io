@@ -14,6 +14,24 @@ Description: An awesome MobileSubstrate tweak!
 Name: MusicFM++
 Author: sugi
 
+Package: com.sugi.linetoolsxii
+Architecture: iphoneos-arm
+Version: 0.1.2-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 316
+Filename: ./debs/com.sugi.linetoolsxii_0.1.2-1+debug_iphoneos-arm.deb
+Size: 61712
+MD5sum: 94832e36757a27cf62b46fdcd561e4a9
+SHA1: 5747503d59e5bef1466f3ccaab18381949282277
+SHA256: 730de7f6edf07ccd0de214a21b3398d928e1a774648ddb2f2bd5458ff974c68b
+SHA512: 8d523a3c65e56759089546c88593e021e96eb5e72e7485c1c7462e60f67d3c68ed473adf4cd6ee99b3fdce6700cf1dc4fe1b1101b1f0d18c6117e99435411164
+Description: Multifunctional tweak of LINE app.
+Name: LINE Tools XII
+SileoDepiction: https://sugiuta.github.io/descriptions/linetoolsxii/linetoolsxii.json
+Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
+Author: sugi
+
 Package: con.sugi.youtubetoolsxii
 Architecture: iphoneos-arm
 Version: 0.0.4-1+debug
@@ -98,23 +116,6 @@ SHA512: 4aabe93b6c4bf7733508e8c31e7d687221b5cbe44dc085aaeae98f51567658262e33119f
 Description: Multifunctional tweak for Instagram.
 Name: Instagram Tools XII
 SileoDepiction: https://sugiuta.github.io/descriptions/instagramtoolsxii/instagramtoolsxii.json
-Author: sugi
-
-Package: com.sugi.linetoolsxii
-Architecture: iphoneos-arm
-Version: 0.1.1-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 304
-Filename: ./debs/com.sugi.linetoolsxii_0.1.1-1+debug_iphoneos-arm.deb
-Size: 68472
-MD5sum: e6b489effed021d8e5b06e7757730392
-SHA1: 6296ff6fa4149f2e02657d1070cd201c6e8cf010
-SHA256: 9243fe73725835586c60630ed636c049a5c7f650d19e1d73a56ef3eb180887a9
-SHA512: 1431a31d23599859ed3fde3458bc3d1844182ee93d5d89fc092d899edece337714a4810db36f906afe57013ef4afe1cf143b4380a1706f9ded0ed33b6d92fde8
-Description: Multifunctional tweak of LINE app.
-Name: LINE Tools XII
-SileoDepiction: https://sugiuta.github.io/descriptions/linetoolsxii/linetoolsxii.json
 Author: sugi
 
 Package: com.sugi.goodspiritd
