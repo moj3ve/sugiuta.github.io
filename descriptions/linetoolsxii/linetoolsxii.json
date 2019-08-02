@@ -32,7 +32,13 @@
 					"class": "DepictionTableButtonView",
 					"title": "Follow me on Twitter",
 					"action" : "https://twitter.com/uta_sugi"
-				}
+				},
+                                 {        
+                                          "class": "DepictionReviewView",
+                                          "title": "Review Test",
+                                          "author": "sugi",
+                                          "markdown": "part of review body",
+                                  }
 			]
 		},
 		{
