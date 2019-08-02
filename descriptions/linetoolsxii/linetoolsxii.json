@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "LINE Tools XIIは多機能なTweakです。\nメイン機能\n・既読無効化\n・送信取り消し無効化\n・きせかえ無料化\n・タイムライン広告削除(ネタカード等含む)\n・友達リクエストを許可する(相手が日本垢の場合は失敗します) \nサブ機能\n・プレゼント機能有効化\n・パスコードロック回避(どんな数字でもロック解除できます) \n・ストーリー非表示\n・イベントスタンプ獲得時条件クリア不要\n・キーボードを暗くする\nタブ機能\n・ニュースタブ非表示\n・コールタブ非表示\n・ウォレットタブ非表示\n・ホームタブ非表示\n・タイムラインタブ非表示\n\nLINE Tools XII is multifunctional.\n\nThe main functions are Timeline Ad deletion,No Read,Unsend Block,Theme Free,Hide Story and so on.\n\nSupport for A12 devices.",
+					"markdown": "LINE Tools XIIは多機能なTweakです。\n\nメイン機能\n・既読無効化\n・送信取り消し無効化\n・きせかえ無料化\n・タイムライン広告削除(ネタカード等含む)\n・友達リクエストを許可する(相手が日本垢の場合は失敗します) \nサブ機能\n・プレゼント機能有効化\n・パスコードロック回避(どんな数字でもロック解除できます) \n・ストーリー非表示\n・イベントスタンプ獲得時条件クリア不要\n・キーボードを暗くする\nタブ機能\n・ニュースタブ非表示\n・コールタブ非表示\n・ウォレットタブ非表示\n・ホームタブ非表示\n・タイムラインタブ非表示\n\nLINE Tools XII is multifunctional.\n\nThe main functions are Timeline Ad deletion,No Read,Unsend Block,Theme Free,Hide Story and so on.\n\nSupport for A12 devices.",
 					"useSpacing": true
 				},
 				{
