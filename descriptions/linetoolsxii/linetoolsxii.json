@@ -62,7 +62,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "**New Features:**\n*A12 support & chimera.",
+					"markdown": "**New Features:**\n* A12 support & chimera.",
 					"useSpacing": true
 				},
                          {
