@@ -47,7 +47,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "**New Features:**\n* Function addition",
+					"markdown": "**New Features:**\n* Function addition.",
 					"useSpacing": true
 				},
                          {
