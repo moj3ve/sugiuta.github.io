@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "LINE Tools XII is multifunctional.\n\nThe main functions are Hide timeline ads, No read, Unsend block （beta) and so on.\n\nSupport for A12 device.",
+					"markdown": "LINE Tools XII is multifunctional.\n\nThe main functions are Hide timeline ads, No read, Unsend block (beta),Call check (passwd),and so on.\n\nSupport for A12 device.",
 					"useSpacing": true
 				},
 				{
@@ -53,6 +53,36 @@
                          {
 					"class": "DepictionSubheaderView",
 					"title": "August 17, 2019",
+					"useBoldText": false
+				},
+                                  {
+					"class": "DepictionSubheaderView",
+					"title": "Version 0.1.2",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**New Features:**\n* Unsend Block.\n* Change Preference Bundle.\n* Make main setting.\n* Make sub setting.\n* Make tab setting.",
+					"useSpacing": true
+				},
+                         {
+					"class": "DepictionSubheaderView",
+					"title": "August 3, 2019",
+					"useBoldText": false
+				},
+                                  {
+					"class": "DepictionSubheaderView",
+					"title": "Version 0.1.1",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**New Features:**\n* Release & support A12 device..",
+					"useSpacing": true
+				},
+                         {
+					"class": "DepictionSubheaderView",
+					"title": "July 26, 2019",
 					"useBoldText": false
 				}
 			]
