@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "LINE Tools XII is multifunctional.\n\nThe main functions are Timeline Ad deletion,No Read,Unsend Block,Theme Free,Hide Story and so on.\n\nSupport for A12 devices.",
+					"markdown": "LINE Tools XII is multifunctional.\n\nThe main functions\n* Hide TimeLine ADs\n* No Read\n* Unsend block (beta)\n* Enabled Theme free\n* Friend Request Enabled\n* Calling check\n\nThe sub functions\n* Present Enabled\n* Passcode bypass\n* Hide story\n*Event stamp download\n* Dark Keyboard\n* Hide last message\n\nThe tab functions\n* Hide News Tab\n* Hide Call Tab\n*Hide Wallet Tab\n* Hide Timeline Tab\n* Hide Home Tab\n\n confirmed on: iPhone6s iOS12.1 unc0ver & iPhoneXR iOS12.0.1 Chimera.”
 					"useSpacing": true
 				},
 				{
