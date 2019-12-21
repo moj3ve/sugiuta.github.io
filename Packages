@@ -100,3 +100,19 @@ Name: SBSetting
 SileoDepiction: https://sugiuta.github.io/descriptions/sbsetting/sbsetting.json
 Author: sugi
 
+Package: con.sugi.youtubetoolsxii
+Architecture: iphoneos-arm
+Version: 0.0.5-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 336
+Filename: ./debs/con.sugi.youtubetoolsxii_0.0.5-1+debug_iphoneos-arm.deb
+Size: 76700
+MD5sum: e295502292c50a7adf77f27e26957ad8
+SHA1: cfbe345055c4ee413383fd7721149cf394544ac4
+SHA256: 6e372db0c851d472fb00e4397918481233f9803b8fe2525bc4fc3804f42ea235
+SHA512: 3d22c6d902bae0b13cd7a894fafe2d28b29c69a7af4065acf3d62c9fec54dbf0785457bfbf1d21b6b9eeb9c3d3475046e38d133ea2a2e555b1050d00628b4d14
+Description: Multifunctional tweak for Youtube.
+Name: Youtube Tools XII
+Author: sugi
+
