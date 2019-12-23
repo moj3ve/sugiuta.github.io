@@ -107,11 +107,11 @@ Section: Tweaks
 Maintainer: sugi
 Installed-Size: 336
 Filename: ./debs/con.sugi.youtubetoolsxii_0.0.5-2+debug_iphoneos-arm.deb
-Size: 86758
-MD5sum: 558d65ebb22513a37f58020989a7fc00
-SHA1: 1025731e5c8a4a2e0efa8caf480b426602069605
-SHA256: 241e252d07bbf8b963fbaa0a571367a9453bbd79ea9ac163856ed0a93a485da0
-SHA512: e35db7023f82d7858c4dce399dc7f8c3b73f988e650624f5125a10c8b536b74ef5fe81b71494d2dacfd2f28820142df1f485c8f0a0d933b07ad22b9ea82f7db6
+Size: 76880
+MD5sum: 1de9b67ca81d92577fc315269d7199a6
+SHA1: 15626cd6c220ab73834cdcceda65d2283a9a4dc8
+SHA256: ff41e42b42ee9d7824a41ed94153f844e7f3e829cb043de014b9dc01cf70f4af
+SHA512: 3c38f5387d2ad25fdc0a9e5e250289a4460043a9417ecffae858f99318d2da8ebbbc84953801f7f9c6cc68a4edb452e62d8aced6aa6fc555fa286a9e3c502c9c
 Description: Multifunctional tweak for Youtube.
 Name: Youtube Tools XII
 Author: sugi
