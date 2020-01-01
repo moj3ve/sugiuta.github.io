@@ -1,3 +1,21 @@
+Package: com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Version: 0.0.12
+Section: System
+Maintainer: Spark
+Installed-Size: 588
+Depends:
+Filename: ./debs/com.spark.libsparkcolourpicker_0.0.12.deb
+Size: 93952
+MD5sum: ad0b59c76143bb8c31d3a8bbee093045
+SHA1: d9be5866904e13b9ed08c68313b95df516965f54
+SHA256: 5cc6c2f8eb00c641c792c46c1dec02a40d832cd92a1085b0c41cab37995575cd
+SHA512: f93db8346a68c887592607251ecd23d5326ec9350c232085f6c2dac1c9f429e2a3967db83447b019f0498ab1dd610f55760063bbdca145e7ade9710f5800a0cf
+Description: Yet another colour picker... But this ones mine!
+Tag: role::developer
+Name: libsparkcolourpicker
+Author: Spark
+
 Package: com.sugi.apt-ftparchive
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -102,16 +120,17 @@ Author: sugi
 
 Package: con.sugi.youtubetoolsxii
 Architecture: iphoneos-arm
-Version: 0.0.5-2+debug
+Version: 0.0.6-1+debug
 Section: Tweaks
 Maintainer: sugi
-Installed-Size: 336
-Filename: ./debs/con.sugi.youtubetoolsxii_0.0.5-2+debug_iphoneos-arm.deb
-Size: 76880
-MD5sum: 1de9b67ca81d92577fc315269d7199a6
-SHA1: 15626cd6c220ab73834cdcceda65d2283a9a4dc8
-SHA256: ff41e42b42ee9d7824a41ed94153f844e7f3e829cb043de014b9dc01cf70f4af
-SHA512: 3c38f5387d2ad25fdc0a9e5e250289a4460043a9417ecffae858f99318d2da8ebbbc84953801f7f9c6cc68a4edb452e62d8aced6aa6fc555fa286a9e3c502c9c
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/con.sugi.youtubetoolsxii_0.0.6-1+debug_iphoneos-arm.deb
+Size: 67468
+MD5sum: 78d3eb4bda13090284a9fd33dbaefa1a
+SHA1: e22c99affe8d3fb2b66cc8fb36e736a125171360
+SHA256: 89a0eba470876e5b8a74010a17be806c4c77783e97ae8f501584d1bead7503c0
+SHA512: 25ce1e559abb4448e5ba685a0f8043ea4494395824649254bdaace7dcb9824caf185e6c2e42676d8a537e88b2219367fffd4db22ba01e42b9b2c600a5d6d8233
 Description: Multifunctional tweak for Youtube.
 Name: Youtube Tools XII
 Author: sugi
