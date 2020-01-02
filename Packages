@@ -120,17 +120,17 @@ Author: sugi
 
 Package: con.sugi.youtubetoolsxii
 Architecture: iphoneos-arm
-Version: 0.1.0-1+debug
+Version: 0.1.1-1+debug
 Section: Tweaks
 Maintainer: sugi
-Installed-Size: 324
+Installed-Size: 276
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/con.sugi.youtubetoolsxii_0.1.0-1+debug_iphoneos-arm.deb
-Size: 69024
-MD5sum: 5125f8be9e91a6a5cd8ca94ad2562811
-SHA1: 9b561e363cacebebbd6e445d12ebfba1f8c3ca96
-SHA256: c318f2480e1f232a6e2fb6bc1d0247250d67acf258af32b05da145765c3b918d
-SHA512: d3fc4ae2db6579a9ebe863ccd400315e106ad484b5f04204449b07877790c3cc4d9b35bf9026547feb65c8d63565576c99fa17a2cdcdbdd65e81ae5b9c8f05fe
+Filename: ./debs/con.sugi.youtubetoolsxii_0.1.1-1+debug_iphoneos-arm.deb
+Size: 26800
+MD5sum: ac88dc81ffe1f03ea77370ce74d48150
+SHA1: b43c00693b8bdeebd42fef3f864c932577fdb56b
+SHA256: 5137646f1b2ea89d70892e6d7488151b6da11c904ce721b906a208163a3743ba
+SHA512: 6503cf418fc3692c17976aed585fc53e66bde722a60e2a469b0b65e09acfa64e9b9f95ff24bebea72ae9bca9c0d68d45c72be95ca94aa6c2000c6d1d7ec6642f
 Description: Multifunctional tweak for Youtube.
 Name: Youtube Tools XII
 Author: sugi
