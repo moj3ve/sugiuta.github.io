@@ -67,16 +67,17 @@ Author: sugi
 
 Package: com.sugi.linetoolsxii
 Architecture: iphoneos-arm
-Version: 0.1.7-1+debug
+Version: 0.1.8-1+debug
 Section: Tweaks
 Maintainer: sugi
-Installed-Size: 348
-Filename: ./debs/com.sugi.linetoolsxii_0.1.7-1+debug_iphoneos-arm.deb
-Size: 87268
-MD5sum: 7bde3e67b09babbd9a9ca3e1f3734351
-SHA1: 2d36cba26ce6ecf3b42d8ebcdddf105a95f00e96
-SHA256: 290a6ff6d7738fc0a8a36bfe718f69c4f1c682d3fcf1c9bc970de1f7d0783bb0
-SHA512: 266877d341201dc0fcf13d180f9aeb71bd9e7cc4c56c274098c996016421af0aaf59f4a1d980abca8c03aa1050a6f70d1da4834f8df64554fe21f5c2ece35f00
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.sugi.linetoolsxii_0.1.8-1+debug_iphoneos-arm.deb
+Size: 63894
+MD5sum: 8fa5928528b945f352703878f3d732e2
+SHA1: 49db8c5c6dc6dc4307ff765e8f74352c263febf5
+SHA256: 0a98f8104ec65b6e48460de3c76a3846a6dcd6f5ede2fd793efc21a1fa169379
+SHA512: 0f9aed08ccc428c09ee1c07dd5c70b884d6d1d1b011ad62070c8b7937200119546169c046a7e565d4b8381c041603f8e37b10438164de471eda553c61d207424
 Description: Multifunctional tweak of LINE app.
 Name: LINE Tools XII
 SileoDepiction: https://sugiuta.github.io/descriptions/linetoolsxii/linetoolsxii.json
