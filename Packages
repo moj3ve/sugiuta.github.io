@@ -103,16 +103,17 @@ Author: sugi
 
 Package: com.sugi.oldocky
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 0.0.1-2+debug
 Section: Tweaks
 Maintainer: sugi
+Installed-Size: 252
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.sugi.oldocky_0.0.1_iphoneos-arm.deb
-Size: 47564
-MD5sum: 162604f1b9a4826d17320376aae8db77
-SHA1: 847c4277d44900eb1bc9a6d0b1ca2677b0ad315b
-SHA256: 9f7856b8e1a81c7a807e8460a283e2ffe621bb26c6a5c5709d3c983cf35dc53b
-SHA512: c26d0c90302a0cba4c0d3054a1dd54631f9a970bdcfad9a6e972b23870839e1a5f3c2bc69721d98bcd2758d7f9cddae12975c9127a868754b80f42b5989ad22e
+Filename: ./debs/com.sugi.oldocky_0.0.1-2+debug_iphoneos-arm.deb
+Size: 40542
+MD5sum: 5000acf5e8fd83b99c6ef3870912e232
+SHA1: a8d0928ab40c6eecc0313ac908dbc83ef5ffd522
+SHA256: 095b8ea9e09a300e196d1f881eeba839d73304bff46cf19a36389832753017c3
+SHA512: b0ee66590403fd5230b467d27eafb26b24aadc8b0249e32f3d44cffde795b12077c91c80e35d2d2090f6817467b508133178b779f6a6a40df250680f392e17c9
 Description: ios9 dock & changed Color!!
 Name: Oldocky
 Author: sugi
