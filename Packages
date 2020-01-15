@@ -101,23 +101,6 @@ Description: カメラのシャッター音と画面収録の音を削除しま�
 Name: No Shutter Sound++
 Author: sugi
 
-Package: com.sugi.oldocky
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: sugi
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.sugi.oldocky_0.0.1_iphoneos-arm.deb
-Size: 47564
-MD5sum: 162604f1b9a4826d17320376aae8db77
-SHA1: 847c4277d44900eb1bc9a6d0b1ca2677b0ad315b
-SHA256: 9f7856b8e1a81c7a807e8460a283e2ffe621bb26c6a5c5709d3c983cf35dc53b
-SHA512: c26d0c90302a0cba4c0d3054a1dd54631f9a970bdcfad9a6e972b23870839e1a5f3c2bc69721d98bcd2758d7f9cddae12975c9127a868754b80f42b5989ad22e
-Description: ios9 dock & changed Color!!
-Name: Oldocky
-Author: sugi
-Icon: https://sugiuta.github.io/assets/repo/Banner/icondock.png
-
 Package: com.sugi.sbsetting
 Architecture: iphoneos-arm
 Version: 0.0.2
