@@ -85,6 +85,23 @@ Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
 Author: sugi
 Icon: https://sugiuta.github.io/assets/repo/Banner/iconline.png
 
+Package: com.sugi.locktouch3
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.sugi.locktouch3_0.0.1-1+debug_iphoneos-arm.deb
+Size: 6748
+MD5sum: 26b98f413401f37908269d8435372fe7
+SHA1: ac41dccf000616355891db3dae2e6ab07423adb6
+SHA256: 1af4c790a50999dd1fd498e39490442ba72823795e189bc59cb3b9bc8e216db4
+SHA512: 07413ddbd7d3143ab0621bc5afdf6c85d33c47721fdae2a6d784236f91af94b486445be3e82b6669027fb0ebae121616df929c8f35b1aef351f0b3c199bac784
+Description: You can lock the screen by tapping the status bar three times.
+Name: LockTouch3
+Author: sugi
+
 Package: com.sugi.noshuttersound++
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
