@@ -85,6 +85,26 @@ Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
 Author: sugi
 Icon: https://sugiuta.github.io/assets/repo/Banner/iconline.png
 
+Package: com.sugi.linetoolsxii
+Architecture: iphoneos-arm
+Version: 0.2.0-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.sugi.linetoolsxii_0.2.0-1+debug_iphoneos-arm.deb
+Size: 65768
+MD5sum: 44e988d1a1bd9a790fce1de3e2bb0f36
+SHA1: e9bdcc11ce8a8fb92573df73c3599b64a0102c92
+SHA256: 18b44aaaa23bf9175548a7a52e5f573bef6f3069a3f260766205737d23ade1f7
+SHA512: f66a87ff36e86f33cfe04e41a92bb7d1a1d5a9811c4042a144c6f1a65e54000e34efa753e818bc36873f2d6a7ec98623ff3b98079538efcfc7ab51627ee146f1
+Description: Multifunctional tweak of LINE app.
+Name: LINE Tools XII
+SileoDepiction: https://sugiuta.github.io/descriptions/linetoolsxii/linetoolsxii.json
+Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
+Author: sugi
+Icon: https://sugiuta.github.io/assets/repo/Banner/iconline.png
+
 Package: com.sugi.locktouch3
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
