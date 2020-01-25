@@ -65,46 +65,6 @@ Name: Instagram Tools XII
 SileoDepiction: https://sugiuta.github.io/descriptions/instagramtoolsxii/instagramtoolsxii.json
 Author: sugi
 
-Package: com.sugi.linetoolsxii
-Architecture: iphoneos-arm
-Version: 0.1.9-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 320
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.sugi.linetoolsxii_0.1.9-1+debug_iphoneos-arm.deb
-Size: 67012
-MD5sum: 0bc79c29b88328665e5f8cf299f7f039
-SHA1: 30cc8ec6fe947c39b00a95957cb791b5717c7eaa
-SHA256: 8523941ce575285fa67f1bc3717ad64188d8486b44fc0796068add565c508bf7
-SHA512: 0cb334cf394fa84de30bac8bbe9365b599470fbd84d94380e89f643e39a73d58dd150c8b99c387fed60cbc4e312b6482c9d085b084ce312e5bd8cd5f2240dfd7
-Description: Multifunctional tweak of LINE app.
-Name: LINE Tools XII
-SileoDepiction: https://sugiuta.github.io/descriptions/linetoolsxii/linetoolsxii.json
-Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
-Author: sugi
-Icon: https://sugiuta.github.io/assets/repo/Banner/iconline.png
-
-Package: com.sugi.linetoolsxii
-Architecture: iphoneos-arm
-Version: 0.2.0-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 316
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.sugi.linetoolsxii_0.2.0-1+debug_iphoneos-arm.deb
-Size: 65768
-MD5sum: 44e988d1a1bd9a790fce1de3e2bb0f36
-SHA1: e9bdcc11ce8a8fb92573df73c3599b64a0102c92
-SHA256: 18b44aaaa23bf9175548a7a52e5f573bef6f3069a3f260766205737d23ade1f7
-SHA512: f66a87ff36e86f33cfe04e41a92bb7d1a1d5a9811c4042a144c6f1a65e54000e34efa753e818bc36873f2d6a7ec98623ff3b98079538efcfc7ab51627ee146f1
-Description: Multifunctional tweak of LINE app.
-Name: LINE Tools XII
-SileoDepiction: https://sugiuta.github.io/descriptions/linetoolsxii/linetoolsxii.json
-Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
-Author: sugi
-Icon: https://sugiuta.github.io/assets/repo/Banner/iconline.png
-
 Package: com.sugi.locktouch3
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
