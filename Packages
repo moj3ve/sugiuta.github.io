@@ -65,6 +65,26 @@ Name: Instagram Tools XII
 SileoDepiction: https://sugiuta.github.io/descriptions/instagramtoolsxii/instagramtoolsxii.json
 Author: sugi
 
+Package: com.sugi.linetoolsxii
+Architecture: iphoneos-arm
+Version: 0.2.1-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 284
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.sugi.linetoolsxii_0.2.1-1+debug_iphoneos-arm.deb
+Size: 55152
+MD5sum: 565500acafeb7dda31d3c1e9fb94ff73
+SHA1: 86ab80157a4d02d8aca47870dbd524eb3cdb427e
+SHA256: 22dea3d968694fa11370c7b0dda14ac434fd03bd30af621652b7250800218dd7
+SHA512: ad4638d828d3c38c336177f5bc7d2179bbfe43b93d17fb6c5efa1bff873e7617bb86f342e505a750ab7c1f98930ac1c2f86126d92ef56a258f51bddea1ac78d1
+Description: Multifunctional tweak of LINE app.
+Name: LINE Tools XII
+SileoDepiction: https://sugiuta.github.io/descriptions/linetoolsxii/linetoolsxii.json
+Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
+Author: sugi
+Icon: https://sugiuta.github.io/assets/repo/Banner/iconline.png
+
 Package: com.sugi.locktouch3
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
