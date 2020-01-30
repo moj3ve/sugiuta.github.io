@@ -102,6 +102,24 @@ Description: You can lock the screen by tapping the status bar three times.
 Name: LockTouch3
 Author: sugi
 
+Package: com.sugi.locktouch3
+Architecture: iphoneos-arm
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 828
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.sugi.locktouch3_0.0.2-1+debug_iphoneos-arm.deb
+Size: 638838
+MD5sum: 23e32a91df459307b7762dd9de33b38d
+SHA1: b594871efb2fb15777e8ea77dd9bf1bc61e9ad60
+SHA256: d6a3b02c6630b30e77afaf8ca0e16d67309d2ec6a8677c2bcd4dbadf00c26fdf
+SHA512: 90e6d587a412834e459fa5b7df0b745d0f80440923c13aa5bd64b2fdbac96510239d9892f79c58c2b58389356b9f159003508e09578a14001d77189bf9362a0a
+Description: You can lock the screen by tapping the statusbar.
+Name: LockTouch3
+Author: sugi
+Icon: file:///Library/PreferenceBundles/LockTouch3.bundle/icon@2x.png
+
 Package: com.sugi.noshuttersound++
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
