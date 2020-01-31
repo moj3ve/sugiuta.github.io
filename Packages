@@ -48,23 +48,6 @@ Description: You can add units and edit downloaded patches.
 Name: Flex3 Edit Patches
 Author: sugi
 
-Package: com.sugi.instagramtoolsxii
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 316
-Filename: ./debs/com.sugi.instagramtoolsxii_0.0.1-1+debug_iphoneos-arm.deb
-Size: 74384
-MD5sum: e8036562ff98e9e38c02591dcc84d68d
-SHA1: 6a48b72e303eba4329b8cab87e7a616a176edbbc
-SHA256: c9219c4ba4f69e49eecbc870c9ed2f29a623d4137728119390935babd21c4550
-SHA512: 4aabe93b6c4bf7733508e8c31e7d687221b5cbe44dc085aaeae98f51567658262e33119f41724bc97004b6b9e80f27d96b8e794cca7fbe6586002ff7d7fb3e94
-Description: Multifunctional tweak for Instagram.
-Name: Instagram Tools XII
-SileoDepiction: https://sugiuta.github.io/descriptions/instagramtoolsxii/instagramtoolsxii.json
-Author: sugi
-
 Package: com.sugi.linetoolsxii
 Architecture: iphoneos-arm
 Version: 0.2.1-1+debug
@@ -171,41 +154,6 @@ Description: ios9 dock & changed Color!!
 Name: Oldocky
 Author: sugi
 Icon: https://sugiuta.github.io/assets/repo/Banner/icondock.png
-
-Package: com.sugi.resptouch2
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 108
-Depends: mobilesubstrate
-Filename: ./debs/com.sugi.resptouch2_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5942
-MD5sum: 28912a3f5cfd53f87b7ff6bd39509119
-SHA1: 89ab9a7744a435dd263ce4c0ce2cf8709b17f337
-SHA256: 7cd1fb6ea80f34987895254beeda0d6c35adcba49166d1d537e070c53c586bff
-SHA512: 6fb4f741e29d8755e761bd3e9581ab488f069e99455f18a22ed6db1a1c65139c7383952e7dc0cb4e63154b6a8da8345cc8b52b7f31fee79d6da70b24a89485de
-Description: You can tap the status bar to respring.
-Name: RespTouch2
-Author: sugi
-
-Package: com.sugi.sbsetting
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 296
-Depends: firmware (>=12.0)
-Filename: ./debs/com.sugi.sbsetting_0.0.2_iphoneos-arm.deb
-Size: 62114
-MD5sum: 9b55787c6e70bb3d156c4f3e3653b1e0
-SHA1: fd20af74e6c526d0c8bddb9767dad4bbebf4aa12
-SHA256: 04955158906b8f8279e6d398d76a74780b4dfa734d455ff175c62ca3a2cd21d4
-SHA512: f97d2b45257e46eeaee2762d00e9f8157d20589a3416105083c38c4bd7a141d31f1d5d8f973c9449bc1ef27f8dce64662727f7beab872698e26f0cbbe612f027
-Description: Multifunctional tweak for SpringBoard.
-Name: SBSetting
-SileoDepiction: https://sugiuta.github.io/descriptions/sbsetting/sbsetting.json
-Author: sugi
 
 Package: con.sugi.youtubetoolsxii
 Architecture: iphoneos-arm
