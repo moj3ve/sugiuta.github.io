@@ -48,25 +48,24 @@ Description: You can add units and edit downloaded patches.
 Name: Flex3 Edit Patches
 Author: sugi
 
-Package: com.sugi.linetoolsxii
+Package: com.sugi.lineextention
 Architecture: iphoneos-arm
-Version: 0.2.1-1+debug
+Version: 1.0.0-1+debug
 Section: Tweaks
-Maintainer: sugi
-Installed-Size: 284
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.sugi.linetoolsxii_0.2.1-1+debug_iphoneos-arm.deb
-Size: 55152
-MD5sum: 565500acafeb7dda31d3c1e9fb94ff73
-SHA1: 86ab80157a4d02d8aca47870dbd524eb3cdb427e
-SHA256: 22dea3d968694fa11370c7b0dda14ac434fd03bd30af621652b7250800218dd7
-SHA512: ad4638d828d3c38c336177f5bc7d2179bbfe43b93d17fb6c5efa1bff873e7617bb86f342e505a750ab7c1f98930ac1c2f86126d92ef56a258f51bddea1ac78d1
-Description: Multifunctional tweak of LINE app.
-Name: LINE Tools XII
-SileoDepiction: https://sugiuta.github.io/descriptions/linetoolsxii/linetoolsxii.json
-Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
-Author: sugi
-Icon: https://sugiuta.github.io/assets/repo/Banner/iconline.png
+Maintainer: sugi.uta
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.sugi.lineextention_1.0.0-1+debug_iphoneos-arm.deb
+Size: 316578
+MD5sum: 58ed2757a442e217f88a105fc843f34a
+SHA1: 1b1b846ff0857c35c8f9c684c4f56818307e240f
+SHA256: 808dd5ec088c7212e3c1dc261782c1eae8e0d7004261a93e054796dbed27fd29
+SHA512: 178cf49e3d15fe62458e58171c1189c7281056aa29018231bc33d882dc3872d3ddf5c7626df006f34ba7458bb743b2145ab2a8021df3f55318564e506e3b9c6a
+Description: LINE of "Communication App" Tools!
+Name: LINE Extention
+Depiction: https://sugiuta.github.io/descriptions/lineextention/index.html
+Author: sugi.uta
+Icon: file:///Library/PreferenceBundles/LINEExtention.bundle/icon@2x.png
 
 Package: com.sugi.locktouch3
 Architecture: iphoneos-arm
