@@ -67,6 +67,25 @@ Depiction: https://sugiuta.github.io/descriptions/lineextention/index.html
 Author: sugi.uta
 Icon: file:///Library/PreferenceBundles/LINEExtention.bundle/icon@2x.png
 
+Package: com.sugi.lineextention
+Architecture: iphoneos-arm
+Version: 1.0.0-2+debug
+Section: Tweaks
+Maintainer: sugi.uta
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.sugi.lineextention_1.0.0-2+debug_iphoneos-arm.deb
+Size: 316588
+MD5sum: 1b03ca7e080f73edeab8dcf90018d424
+SHA1: 2443e11205639086639d5952b4778e08ee8ce930
+SHA256: 84027ecda7d00b63d2711c7fd4d8bb6373c7c6b79506285d0cfeb3e18f9663dc
+SHA512: 1414c9d9c29749e5af7805f1713f22624df9f8a19925efe4da20ed8d8a338778b465097623a38ee04cf02f1548fc6778788a3aadc7642a22fbd71b1f23859d46
+Description: LINE of "Communication App" Tools!
+Name: LINE Extention
+Depiction: https://sugiuta.github.io/descriptions/lineextention/index.html
+Author: sugi.uta
+Icon: file:///Library/PreferenceBundles/LINEExtention.bundle/icon@2x.png
+
 Package: com.sugi.locktouch3
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
