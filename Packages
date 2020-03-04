@@ -1,21 +1,3 @@
-Package: com.spark.libsparkcolourpicker
-Architecture: iphoneos-arm
-Version: 0.0.12
-Section: System
-Maintainer: Spark
-Installed-Size: 588
-Depends:
-Filename: ./debs/com.spark.libsparkcolourpicker_0.0.12.deb
-Size: 93952
-MD5sum: ad0b59c76143bb8c31d3a8bbee093045
-SHA1: d9be5866904e13b9ed08c68313b95df516965f54
-SHA256: 5cc6c2f8eb00c641c792c46c1dec02a40d832cd92a1085b0c41cab37995575cd
-SHA512: f93db8346a68c887592607251ecd23d5326ec9350c232085f6c2dac1c9f429e2a3967db83447b019f0498ab1dd610f55760063bbdca145e7ade9710f5800a0cf
-Description: Yet another colour picker... But this ones mine!
-Tag: role::developer
-Name: libsparkcolourpicker
-Author: Spark
-
 Package: com.sugi.apt-ftparchive
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -173,38 +155,20 @@ Description: カメラのシャッター音と画面収録の音を削除しま�
 Name: No Shutter Sound++
 Author: sugi
 
-Package: com.sugi.oldocky
+Package: com.sugi.ytextension
 Architecture: iphoneos-arm
-Version: 0.0.1-2+debug
+Version: 1.0.0-1+debug
 Section: Tweaks
 Maintainer: sugi
-Installed-Size: 252
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.sugi.oldocky_0.0.1-2+debug_iphoneos-arm.deb
-Size: 40542
-MD5sum: 5000acf5e8fd83b99c6ef3870912e232
-SHA1: a8d0928ab40c6eecc0313ac908dbc83ef5ffd522
-SHA256: 095b8ea9e09a300e196d1f881eeba839d73304bff46cf19a36389832753017c3
-SHA512: b0ee66590403fd5230b467d27eafb26b24aadc8b0249e32f3d44cffde795b12077c91c80e35d2d2090f6817467b508133178b779f6a6a40df250680f392e17c9
-Description: ios9 dock & changed Color!!
-Name: Oldocky
+Installed-Size: 248
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.sugi.ytextension_1.0.0-1+debug_iphoneos-arm.deb
+Size: 27128
+MD5sum: 1d1edae9dcfc5ed57f0a2025e98231af
+SHA1: 8586fc40ec66bf871d37d8fa7431c2d3aba4c7c2
+SHA256: 212023d9927d3b8ea050a24f066ef1e16bc62c1a38231dfc7f797911455bfb44
+SHA512: 5fa044085f64ba7ee76f904c780f71e935810918918e9810e8369aa5e67184adcdc28db2270e858c6df0ef72128efbdab6cb122798d7fbc8a1c25b5a99109bf1
+Description: Youtube Extension Tweak!!
 Author: sugi
-Icon: https://sugiuta.github.io/assets/repo/Banner/icondock.png
-
-Package: con.sugi.youtubetoolsxii
-Architecture: iphoneos-arm
-Version: 0.1.1-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 276
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/con.sugi.youtubetoolsxii_0.1.1-1+debug_iphoneos-arm.deb
-Size: 26800
-MD5sum: ac88dc81ffe1f03ea77370ce74d48150
-SHA1: b43c00693b8bdeebd42fef3f864c932577fdb56b
-SHA256: 5137646f1b2ea89d70892e6d7488151b6da11c904ce721b906a208163a3743ba
-SHA512: 6503cf418fc3692c17976aed585fc53e66bde722a60e2a469b0b65e09acfa64e9b9f95ff24bebea72ae9bca9c0d68d45c72be95ca94aa6c2000c6d1d7ec6642f
-Description: Multifunctional tweak for Youtube.
-Name: Youtube Tools XII
-Author: sugi
+Icon: file:///Library/PreferenceBundles/YTExtension.bundle/icon@2x.png
 
