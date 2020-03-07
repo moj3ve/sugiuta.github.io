@@ -32,36 +32,17 @@ Author: sugi
 
 Package: com.sugi.lineextention
 Architecture: iphoneos-arm
-Version: 1.0.0-1+debug
+Version: 1.0.4-1+debug
 Section: Tweaks
 Maintainer: sugi.uta
-Installed-Size: 612
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.sugi.lineextention_1.0.0-1+debug_iphoneos-arm.deb
-Size: 316578
-MD5sum: 58ed2757a442e217f88a105fc843f34a
-SHA1: 1b1b846ff0857c35c8f9c684c4f56818307e240f
-SHA256: 808dd5ec088c7212e3c1dc261782c1eae8e0d7004261a93e054796dbed27fd29
-SHA512: 178cf49e3d15fe62458e58171c1189c7281056aa29018231bc33d882dc3872d3ddf5c7626df006f34ba7458bb743b2145ab2a8021df3f55318564e506e3b9c6a
-Description: LINE of "Communication App" Tools!
-Name: LINE Extention
-Depiction: https://sugiuta.github.io/descriptions/lineextention/index.html
-Author: sugi.uta
-Icon: file:///Library/PreferenceBundles/LINEExtention.bundle/icon@2x.png
-
-Package: com.sugi.lineextention
-Architecture: iphoneos-arm
-Version: 1.0.0-2+debug
-Section: Tweaks
-Maintainer: sugi.uta
-Installed-Size: 612
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.sugi.lineextention_1.0.0-2+debug_iphoneos-arm.deb
-Size: 316588
-MD5sum: 1b03ca7e080f73edeab8dcf90018d424
-SHA1: 2443e11205639086639d5952b4778e08ee8ce930
-SHA256: 84027ecda7d00b63d2711c7fd4d8bb6373c7c6b79506285d0cfeb3e18f9663dc
-SHA512: 1414c9d9c29749e5af7805f1713f22624df9f8a19925efe4da20ed8d8a338778b465097623a38ee04cf02f1548fc6778788a3aadc7642a22fbd71b1f23859d46
+Installed-Size: 324
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, ws.hbang.common (>=1.13)
+Filename: ./debs/com.sugi.lineextention_1.0.4-1+debug_iphoneos-arm.deb
+Size: 38990
+MD5sum: 5f41622a30eecbe7b5344f0403a2a6e7
+SHA1: 561dfacf61d00bfbe80c3cf580a7ef403c531b82
+SHA256: 85334209b682d2d0fbe96c3bee3d1add670a4d8477b08239526f2f7f6b61f81e
+SHA512: 0129795c7777f0a803a1b644d8e6a58c90f38b7b76d88402b79bd3a4af6b51ad8bbda9e3a6e25ef6470cd66b19f4bef15955c5dfdeb5f974c3d884a7a97ecbb0
 Description: LINE of "Communication App" Tools!
 Name: LINE Extention
 Depiction: https://sugiuta.github.io/descriptions/lineextention/index.html
