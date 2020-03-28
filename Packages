@@ -120,6 +120,24 @@ Name: LockTouch3
 Author: sugi
 Icon: file:///Library/PreferenceBundles/LockTouch3.bundle/icon@2x.png
 
+Package: com.sugi.nightication
+Architecture: iphoneos-arm
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: sugi.uta
+Installed-Size: 228
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.sugi.nightication_1.0.0-1+debug_iphoneos-arm.deb
+Size: 20174
+MD5sum: 9976889c7a6bac64111e7eb075af1dc0
+SHA1: 63cbcc406e3d6d0ec93c2994587e8e9088a407b3
+SHA256: 359d1a3b810c7aa0cc4243edc2fb7de388001788128750f5167231b6ec684ca9
+SHA512: e876b8d1b4920cc73dd49e745fc95e9cf29716fe3142786df0f53b8f4e9ea39450dc0fdd32a2e3d300debf12328368957ff24f5e8d6e9b1c3073c7e896dc419d
+Description: An awesome Cydia Substrate tweak!
+Name: Nightication
+Author: sugi.uta
+Icon: file:///Library/PreferenceBundles/Nightication.bundle/icon@2x.png
+
 Package: com.sugi.noshuttersound++
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
