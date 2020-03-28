@@ -138,6 +138,24 @@ Name: Nightication
 Author: sugi.uta
 Icon: file:///Library/PreferenceBundles/Nightication.bundle/icon@2x.png
 
+Package: com.sugi.nightication
+Architecture: iphoneos-arm
+Version: 1.0.1-1+debug
+Section: Tweaks
+Maintainer: sugi.uta
+Installed-Size: 228
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.sugi.nightication_1.0.1-1+debug_iphoneos-arm.deb
+Size: 20028
+MD5sum: 559226e8a63a1562a1c4d616707e6466
+SHA1: 40c3a00aab12c7250625f7a16d0bac318c31c361
+SHA256: 4d2dc22179376279117d906a5a5c4e071022646390968fba97f89ec8daa5ef0d
+SHA512: 29bef62e0e9eb31a7c31de5eb651eb5e86a0e4d5092f5ffdfd2e893190bfa30cfef8b9de3c6130c290d34cb622ff77640eaa0fb29e6e7c4af9168c0fb6b66de9
+Description: An awesome Cydia Substrate tweak!
+Name: Nightication
+Author: sugi.uta
+Icon: file:///Library/PreferenceBundles/Nightication.bundle/icon@2x.png
+
 Package: com.sugi.noshuttersound++
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
