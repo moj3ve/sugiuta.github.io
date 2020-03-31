@@ -172,6 +172,24 @@ Description: カメラのシャッター音と画面収録の音を削除しま�
 Name: No Shutter Sound++
 Author: sugi
 
+Package: com.sugi.secretmessage
+Architecture: iphoneos-arm
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: sugi.uta
+Installed-Size: 236
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.sugi.secretmessage_1.0.0-1+debug_iphoneos-arm.deb
+Size: 24928
+MD5sum: bd349ed74417221dafc3aa73d953f5f3
+SHA1: 6302659284995033829932eda4a2e6a979197c6f
+SHA256: 9106a39eb1d8d69b5f6821f0daef35451e59d005544d736ce49fa345066454e3
+SHA512: ce8faad97189f835998513a557b04cd05a647212d8a004b2c961fd3d73553447d8982ee26396eba677338bc4e79f4015c84db4f24ecb8ddaa599e899e2a25d65
+Description: An awesome Cydia Substrate tweak!
+Name: Secret Message
+Author: sugi.uta
+Icon: file:///Library/PreferenceBundles/SecretMessage.bundle/icon@2x.png
+
 Package: com.sugi.ytextension
 Architecture: iphoneos-arm
 Version: 1.0.0-1+debug
