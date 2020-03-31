@@ -198,13 +198,14 @@ Maintainer: sugi.uta
 Installed-Size: 236
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
 Filename: ./debs/com.sugi.secretmessage_1.0.1-1+debug_iphoneos-arm.deb
-Size: 24994
-MD5sum: c96d0d44e821cb15e2c64172f98a62e5
-SHA1: ea4eaeb77d7594d9b7805aa0320e52c868ef5c2c
-SHA256: 0b43e3ef6177ce139aa8fa10d15e9ebafad9d76c031035b61e979052e86e5dd1
-SHA512: 9ee8519c46671395898c8f3a1494eca611b02acbba2efec6305f4ea544badf7ce6a4b90091417aa54b13b88a0f66480224deb97067a8854744133890ac3244b2
+Size: 25030
+MD5sum: 9bac1bd2fada4f9138779899d5be7a2e
+SHA1: b4754be1bf79dc6fc9039f6b274cef75d6838205
+SHA256: ea8b5cf90c4a3ef26b3b5ffed2613d0e7e947ea4c1e1da2795aa271da4638b1e
+SHA512: d541f86320f0d8139fa496cabc37e626f539d8b6e440a6626cc5dd19a26b3a94f2d7910331136f79dc504b73bf271a0255ed9be44b9fd311f87753a9b2a42853
 Description: Hide notifications with this Tweak!
 Name: Secret Message
+Depiction: https://sugiuta.github.io/descriptions/secretmessage/index.html
 Author: sugi.uta
 Icon: file:///Library/PreferenceBundles/SecretMessage.bundle/icon@2x.png
 
