@@ -190,3 +190,21 @@ Name: YTExtension
 Author: sugi
 Icon: file:///Library/PreferenceBundles/YTExtension.bundle/icon@2x.png
 
+Package: com.sugi.ytextension
+Architecture: iphoneos-arm
+Version: 1.0.2-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 272
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, ws.hbang.common (>=1.13)
+Filename: ./debs/com.sugi.ytextension_1.0.2-1+debug_iphoneos-arm.deb
+Size: 30124
+MD5sum: 0f07d39d31461915827921d56162ccb5
+SHA1: 74ef960fe74cfb7fc05f680c97d16e26f43f0bb4
+SHA256: 6f0ef4f077e14098e4c0b33f1fa05601752e29e883eef7cdeca8b6c964ef5acf
+SHA512: 2ec574ab37538ac44af2f5ab5648198f271fe76f068759329e3e3cd14aa57b9b2a3bde27188e24fc98818fc7b34f921d0405696dc710a6bda352efe0e9f28e59
+Description: Youtube Extension Tweak!!
+Name: YTExtension
+Author: sugi
+Icon: file:///Library/PreferenceBundles/YTExtension.bundle/icon@2x.png
+
