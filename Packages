@@ -137,39 +137,3 @@ Name: YTExtension
 Author: sugi
 Icon: file:///Library/PreferenceBundles/YTExtension.bundle/icon@2x.png
 
-Package: jp.akusio.backgrounderaction13
-Architecture: iphoneos-arm
-Version: 0.1.4
-Section: Tweaks
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 244
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
-Size: 12264
-MD5sum: 3929958a4a2387322be1b72cec69acab
-SHA1: 2379d256c29e2e080e7ccda9b74bba7631e4ec42
-SHA256: 255f4b56aa17a4ce3355a5b5f41675de03426402d7ba460ee3564179c302c8fc
-SHA512: 4e144de1eff116d9cf5e2789c41abc934524e160248fd7ca91bb71ad74158e88fb64d36e1129e43a072a911cb68f7636145fd0af42f32a3bd91e76fd8cd2dfe8
-Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
-Name: BackgrounderAction2 for CCSupport
-Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
-Author: akusio <akusio-report@neko2.net>
-
-Package: jp.akusio.milkyway2
-Architecture: iphoneos-arm
-Version: 0.2.0-alpha
-Section: Tweaks
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 376
-Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
-Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
-Size: 42924
-MD5sum: 103b1f7e997584aa5776507567194d9f
-SHA1: 8513acd51070f72e1245affecf507e6a097d003a
-SHA256: f0087ebfb3ddfcdb5f307b3a51942d853942cfbf73482814780650d6fa861e46
-SHA512: 7ab97049b9ab3a9d435ade43f3e3a463eb27481202d8071cc9cf7752b18c6d50b44c0043cc992b88fe062c9e33d69e435926e8e748e7f99cb1a99287fc6eb5e8
-Description: multitasking for iOS13.
-Name: MilkyWay2
-Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
-Author: akusio <akusio-report@neko2.net>
-
