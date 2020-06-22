@@ -49,77 +49,6 @@ Depiction: https://sugiuta.github.io/descriptions/lineextention/index.html
 Author: sugi.uta
 Icon: file:///Library/PreferenceBundles/LINEExtention.bundle/icon@2x.png
 
-Package: com.sugi.locktouch3
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.sugi.locktouch3_0.0.1-1+debug_iphoneos-arm.deb
-Size: 6748
-MD5sum: 26b98f413401f37908269d8435372fe7
-SHA1: ac41dccf000616355891db3dae2e6ab07423adb6
-SHA256: 1af4c790a50999dd1fd498e39490442ba72823795e189bc59cb3b9bc8e216db4
-SHA512: 07413ddbd7d3143ab0621bc5afdf6c85d33c47721fdae2a6d784236f91af94b486445be3e82b6669027fb0ebae121616df929c8f35b1aef351f0b3c199bac784
-Description: You can lock the screen by tapping the status bar three times.
-Name: LockTouch3
-Author: sugi
-
-Package: com.sugi.locktouch3
-Architecture: iphoneos-arm
-Version: 0.0.2-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 828
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.sugi.locktouch3_0.0.2-1+debug_iphoneos-arm.deb
-Size: 638838
-MD5sum: 23e32a91df459307b7762dd9de33b38d
-SHA1: b594871efb2fb15777e8ea77dd9bf1bc61e9ad60
-SHA256: d6a3b02c6630b30e77afaf8ca0e16d67309d2ec6a8677c2bcd4dbadf00c26fdf
-SHA512: 90e6d587a412834e459fa5b7df0b745d0f80440923c13aa5bd64b2fdbac96510239d9892f79c58c2b58389356b9f159003508e09578a14001d77189bf9362a0a
-Description: You can lock the screen by tapping the statusbar.
-Name: LockTouch3
-Author: sugi
-Icon: file:///Library/PreferenceBundles/LockTouch3.bundle/icon@2x.png
-
-Package: com.sugi.locktouch3
-Architecture: iphoneos-arm
-Version: 0.0.2-2+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 828
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.sugi.locktouch3_0.0.2-2+debug_iphoneos-arm.deb
-Size: 638828
-MD5sum: e1cd1f57531aec1e132a58595b52d7bf
-SHA1: d4c7eeb382c574530877c003f5a3f4b9cf066db8
-SHA256: 1673bf07b847184fa76fc8e2ba81afb8791a5be0164a6ce86a96eb0add1c4408
-SHA512: 2b8a8d39bdc11f3560312be5e5604ab440a0ddca13c443d168fec35df217b1738615af1d276438489ebe72be9e033e18b5c67a98f38e1dcacb638b11848bd17f
-Description: You can lock the screen by tapping the statusbar.
-Name: LockTouch3
-Author: sugi
-Icon: file:///Library/PreferenceBundles/LockTouch3.bundle/icon@2x.png
-
-Package: com.sugi.locktouch3
-Architecture: iphoneos-arm
-Version: 0.0.3-1+debug
-Section: Tweaks
-Maintainer: sugi
-Installed-Size: 828
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.sugi.locktouch3_0.0.3-1+debug_iphoneos-arm.deb
-Size: 638326
-MD5sum: c4ce7708f8620e6a1658c28c5a749d69
-SHA1: 89beac616a41b265b652d3b6ca51425cc18ac688
-SHA256: 08dd19a91c43773a1e666cab4a864a96cf3f66ebf74310e12432e4cfd53697ae
-SHA512: cfd3e8b605a5ef3bcf5e9476ad473493b78e23eaae96111eeb441f7adc2a2c6194c39db0660399fc33456996e0dc30ec976dee0fe102a408ca864d4f270161f2
-Description: You can lock the screen by tapping the statusbar.
-Name: LockTouch3
-Author: sugi
-Icon: file:///Library/PreferenceBundles/LockTouch3.bundle/icon@2x.png
-
 Package: com.sugi.nightication
 Architecture: iphoneos-arm
 Version: 1.0.0-1+debug
@@ -207,4 +136,40 @@ Description: Youtube Extension Tweak!!
 Name: YTExtension
 Author: sugi
 Icon: file:///Library/PreferenceBundles/YTExtension.bundle/icon@2x.png
+
+Package: jp.akusio.backgrounderaction13
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 12264
+MD5sum: 3929958a4a2387322be1b72cec69acab
+SHA1: 2379d256c29e2e080e7ccda9b74bba7631e4ec42
+SHA256: 255f4b56aa17a4ce3355a5b5f41675de03426402d7ba460ee3564179c302c8fc
+SHA512: 4e144de1eff116d9cf5e2789c41abc934524e160248fd7ca91bb71ad74158e88fb64d36e1129e43a072a911cb68f7636145fd0af42f32a3bd91e76fd8cd2dfe8
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction2 for CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Author: akusio <akusio-report@neko2.net>
+
+Package: jp.akusio.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.0-alpha
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 376
+Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
+Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 42924
+MD5sum: 103b1f7e997584aa5776507567194d9f
+SHA1: 8513acd51070f72e1245affecf507e6a097d003a
+SHA256: f0087ebfb3ddfcdb5f307b3a51942d853942cfbf73482814780650d6fa861e46
+SHA512: 7ab97049b9ab3a9d435ade43f3e3a463eb27481202d8071cc9cf7752b18c6d50b44c0043cc992b88fe062c9e33d69e435926e8e748e7f99cb1a99287fc6eb5e8
+Description: multitasking for iOS13.
+Name: MilkyWay2
+Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
+Author: akusio <akusio-report@neko2.net>
 
