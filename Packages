@@ -49,6 +49,24 @@ Depiction: https://sugiuta.github.io/descriptions/lineextention/index.html
 Author: sugi.uta
 Icon: file:///Library/PreferenceBundles/LINEExtention.bundle/icon@2x.png
 
+Package: com.sugi.lockbutton
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 232
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.muirey03.libimagepicker, org.thebigboss.libcolorpicker
+Filename: ./debs/com.sugi.lockbutton_0.0.1-1+debug_iphoneos-arm.deb
+Size: 24352
+MD5sum: 60e915351e1044b26d7b693d10e914c7
+SHA1: df27d40eef309cfb0abe66b7f9d949e5dae3d7ba
+SHA256: 862b14ae74572f10039731276dec499a3fc0b030108006520dea6cfed35735ad
+SHA512: 579470a44995d5ded5eba9ce8a250607c39acb74db261d92484000dcf0ff600bacc9927516fa04cee114ec23b73ebfd6a86fb57461217c75a6fef74b1da0b4bc
+Description: If you can see this message, sugi has forgotten the description.
+Name: LockButton
+Author: sugi
+Icon: file:///Library/PreferenceBundles/LockButton.bundle/icon@2x.png
+
 Package: com.sugi.nightication
 Architecture: iphoneos-arm
 Version: 1.0.0-1+debug
