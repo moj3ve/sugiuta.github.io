@@ -155,21 +155,3 @@ Name: YTExtension
 Author: sugi
 Icon: file:///Library/PreferenceBundles/YTExtension.bundle/icon@2x.png
 
-Package: com.sugiuta.megane
-Architecture: iphoneos-arm
-Version: 0.0.2-1+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 476
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/com.sugiuta.megane_0.0.2-1+debug_iphoneos-arm.deb
-Size: 97830
-MD5sum: 5492ff8c473fa1b7c1432e4104780ce3
-SHA1: e1f2dd87487e5837b0a4966a57b092794720c7e8
-SHA256: 961e08ce2435863d537bb74c126fc65784a27695aabe00c34ca9336968924d1e
-SHA512: 7720a2dd11cf40d037779515b7d27e998075c3f614dcabbd2fadd302f1c773ee509ffd92e7e2ee3fdad021712890e151cd6c451b521fc0555a9708b22a1905a1
-Description: With Megane you can search no matter which app you have open.
-Name: Megane
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Megane.bundle/icon@2x.png
-
