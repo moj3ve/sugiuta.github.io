@@ -49,3 +49,22 @@ Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
 Author: Nepeta & Sugiuta
 Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
 
+Package: com.sugiuta.nanobanners
+Architecture: iphoneos-arm
+Version: 0.1.5-1+debug
+Section: Tweaks
+Maintainer: Nepeta & Sugiuta
+Installed-Size: 320
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Filename: ./debs/com.sugiuta.nanobanners_0.1.5-1+debug_iphoneos-arm.deb
+Size: 57298
+MD5sum: 20998e2c0bc5530d98649da957b747f5
+SHA1: a3cc10ac83ece074e7ae87fe59884a5a3bfb153b
+SHA256: 1e40b7def3fd203f1d3b9a1c0b778f56bb3818851084e1cb23b789b40d6c5b51
+SHA512: 04622fed26977eccfe18b9f97064a6a238985512e9b8132dde8b08d96ac7921b17e2c070b0bacff667c5748eabd21710b8db62880ae4576efbe32af353753921
+Description: Small banners for iOS 14
+Name: Nanobanners (Sugiuta)
+Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
+Author: Nepeta & Sugiuta
+Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
+
