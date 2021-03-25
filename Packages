@@ -30,6 +30,22 @@ Description: You can add units and edit downloaded patches.
 Name: Flex3 Edit Patches
 Author: sugi
 
+Package: com.sugi.noshuttersound
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 56
+Filename: ./debs/com.sugi.noshuttersound_0.0.1-1+debug_iphoneos-arm.deb
+Size: 1896
+MD5sum: 28ed19ab25279419991aa7cab3894e65
+SHA1: d24566d44b3b89d575f82ef0db82405706c3caac
+SHA256: 91cdbeb8c586d68d38c0dc78185a58c2174af6e15792f490d5c1528019950795
+SHA512: 0e2aedbeeff0083b466bfc3ca2369872c5f2e8398a26c078d3f837b37bdc53a497c451fb7945ae9a38b9432b538d0acc7cbb229659474be87a97f96751ca9e5c
+Description: Removes the camera shutter sound.
+Name: No Shutter Sound
+Author: sugiuta
+
 Package: com.sugiuta.nanobanners
 Architecture: iphoneos-arm
 Version: 0.1.4-1+debug
@@ -62,6 +78,25 @@ MD5sum: 20998e2c0bc5530d98649da957b747f5
 SHA1: a3cc10ac83ece074e7ae87fe59884a5a3bfb153b
 SHA256: 1e40b7def3fd203f1d3b9a1c0b778f56bb3818851084e1cb23b789b40d6c5b51
 SHA512: 04622fed26977eccfe18b9f97064a6a238985512e9b8132dde8b08d96ac7921b17e2c070b0bacff667c5748eabd21710b8db62880ae4576efbe32af353753921
+Description: Small banners for iOS 14
+Name: Nanobanners (Sugiuta)
+Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
+Author: Nepeta & Sugiuta
+Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
+
+Package: com.sugiuta.nanobanners
+Architecture: iphoneos-arm
+Version: 0.1.6-1+debug
+Section: Tweaks
+Maintainer: Nepeta & Sugiuta
+Installed-Size: 328
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Filename: ./debs/com.sugiuta.nanobanners_0.1.6-1+debug_iphoneos-arm.deb
+Size: 63358
+MD5sum: 5ceedb802a54686213e72c6bb3789a68
+SHA1: 02eb0ad1dc25e399aed2607b23c1abb40b0d8bd7
+SHA256: 73e6e63417c52d99343eb46140455dc550077202f0e52d4e66bec6908283fa77
+SHA512: 92a14ea6aa077ac5edf20ef16a68e0ac57102220ec4fd52496f930e379e52bf3f47926e328d65169e03ed7494d5aef1df2e0dd7ee4e8e40cf77cd5b760f41e00
 Description: Small banners for iOS 14
 Name: Nanobanners (Sugiuta)
 Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
