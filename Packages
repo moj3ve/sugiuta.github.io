@@ -46,6 +46,23 @@ Description: Removes the camera shutter sound.
 Name: No Shutter Sound
 Author: sugiuta
 
+Package: com.sugiuta.libkuromi
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: System
+Maintainer: sugiuta
+Installed-Size: 172
+Filename: ./debs/com.sugiuta.libkuromi_0.0.1-1+debug_iphoneos-arm.deb
+Size: 7786
+MD5sum: ad563b96a29c31cc315cff04cb1ff26d
+SHA1: 7d9a64f5883d3524882a78c8617637d54ee9e6de
+SHA256: 63262e293690b194963a9aadf497286623f34fe7eeb2676dd1d087b6adc338a6
+SHA512: bb71089c5e67afd126d7174fb99ba54e53b96c119fdd16b3b706bb4f89dd81abda9ad452960c84c3bc7057b9eaa899955c0e3583d9d571fed060545978850329
+Description: Sugiuta's library.
+Tag: role::developer
+Name: libKuromi
+Author: sugiuta
+
 Package: com.sugiuta.nanobanners
 Architecture: iphoneos-arm
 Version: 0.1.4-1+debug
@@ -135,6 +152,25 @@ MD5sum: 2dc794a1df4b41d8f71139c1c9015c22
 SHA1: 9e98748e266417d94318b34a5c75f3ca32ec9b85
 SHA256: 4aef2af811a1084c9fd2863647dc394bf1b77999285d03588d41f368631329a0
 SHA512: a9add5b6e701925c46bd2465d09957d7309dde9b438e59228ae9c9e8c95e8989c4453250f9b59f22ae5f2a4052ea73f9510653416d6bf88915d8deb9332856b8
+Description: Small banners for iOS 14
+Name: Nanobanners (Sugiuta)
+Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
+Author: Nepeta & Sugiuta
+Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
+
+Package: com.sugiuta.nanobanners
+Architecture: iphoneos-arm
+Version: 0.1.8-1+debug
+Section: Tweaks
+Maintainer: Nepeta & Sugiuta
+Installed-Size: 392
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0), ws.hbang.alderis, com.sugiuta.libkuromi
+Filename: ./debs/com.sugiuta.nanobanners_0.1.8-1+debug_iphoneos-arm.deb
+Size: 67862
+MD5sum: f9e3bb425e9b1156287e91382049ccd3
+SHA1: eebca71751d756c9123074da0053ec667e6c30c4
+SHA256: 634830203b44107588289dc05a6fb2a042e5fed8fc6ea0537754b44010a9b5cf
+SHA512: 897af71bd4ba0eb95718fcf98e7fdd3846b0a9156f5116d509ecded57368540cfda53391b4065f019f818086794dd5576134d92e498f43089e8fd253fcbdaf3e
 Description: Small banners for iOS 14
 Name: Nanobanners (Sugiuta)
 Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
