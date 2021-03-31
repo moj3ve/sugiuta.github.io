@@ -46,6 +46,25 @@ Description: Removes the camera shutter sound.
 Name: No Shutter Sound
 Author: sugiuta
 
+Package: com.sugiuta.aoi
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.sugiuta.libkuromi
+Filename: ./debs/com.sugiuta.aoi_0.0.1-1+debug_iphoneos-arm.deb
+Size: 176594
+MD5sum: 09e9b9bdc936b72cbbc39f72141a563a
+SHA1: 1fca88b3e89356ad8f1964aff4f6240f468c8ce9
+SHA256: 53694401f4e93899aabeea28aed9ce69feae40db4226dcfbefd50d81cebb4901
+SHA512: 3b64434d7fdb4a7f90252f7ca3b51e18e38cd629c1a22f26a35ecd0877c173a878f0ef059b86c0c84f8c58e9c0d6e96af8d477c83a6f41eaf4c1d8d6d90d4c2e
+Description: If you connected bluetooth device, you can open favorite app.
+Name: Aoi
+Depiction: https://sugiuta.github.io/descriptions/aoi/index.html
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Aoi.bundle/icon@2x.png
+
 Package: com.sugiuta.libkuromi
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
