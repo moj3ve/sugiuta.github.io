@@ -65,6 +65,25 @@ Depiction: https://sugiuta.github.io/descriptions/aoi/index.html
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Aoi.bundle/icon@2x.png
 
+Package: com.sugiuta.aoi
+Architecture: iphoneos-arm
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 468
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.sugiuta.libkuromi
+Filename: ./debs/com.sugiuta.aoi_0.0.2-1+debug_iphoneos-arm.deb
+Size: 177452
+MD5sum: 13ea546b9b55039697ae5bf830c36630
+SHA1: ef064a19de2b466cbb980b7f452228027dca1a25
+SHA256: 0fd6f4a27cd4bc9ced9285dc6f527418969a6df51d0069441d81cea0afb73e20
+SHA512: 222697e535b029fddcf8be2b3a26e2769ac79351b77790ef5510702f2dad5ab718452e60f0c213fc78277c988aea6a40758e6f14d9e75a8d71e1a7ad937a32eb
+Description: If you connected bluetooth device, you can open favorite app.
+Name: Aoi
+Depiction: https://sugiuta.github.io/descriptions/aoi/index.html
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Aoi.bundle/icon@2x.png
+
 Package: com.sugiuta.libkuromi
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
