@@ -101,6 +101,24 @@ Tag: role::developer
 Name: libKuromi
 Author: sugiuta
 
+Package: com.sugiuta.momiji
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 956
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.sugiuta.momiji_0.0.1-1+debug_iphoneos-arm.deb
+Size: 421126
+MD5sum: d3609e7607ec10f1988e59e15d884fe8
+SHA1: 3246e62fd6370e6d9fe38c726d6f5f077eff1e90
+SHA256: ef13cdb730d7eb06f949377722c2dece261a6db2794d6110c3b2d3e0b6b63f9b
+SHA512: f16740fd335cfaa3102a15f293925076f182cb6791bbb95712f7a30978088dd80a8b18f0351ae8f5911e9e275bcc7babf8876b950aa34a9598e1b256a1ca6bc2
+Description: An awesome MobileSubstrate tweak!
+Name: Momiji
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Momiji.bundle/icon@2x.png
+
 Package: com.sugiuta.nanobanners
 Architecture: iphoneos-arm
 Version: 0.1.4-1+debug
