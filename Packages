@@ -109,13 +109,14 @@ Maintainer: sugiuta
 Installed-Size: 956
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debs/com.sugiuta.momiji_0.0.1-1+debug_iphoneos-arm.deb
-Size: 421126
-MD5sum: d3609e7607ec10f1988e59e15d884fe8
-SHA1: 3246e62fd6370e6d9fe38c726d6f5f077eff1e90
-SHA256: ef13cdb730d7eb06f949377722c2dece261a6db2794d6110c3b2d3e0b6b63f9b
-SHA512: f16740fd335cfaa3102a15f293925076f182cb6791bbb95712f7a30978088dd80a8b18f0351ae8f5911e9e275bcc7babf8876b950aa34a9598e1b256a1ca6bc2
-Description: An awesome MobileSubstrate tweak!
+Size: 421170
+MD5sum: 685422e70fae12b9122f6d746680faf4
+SHA1: 9625a17a6468d0d5a5596025262c144a2ec4a6dc
+SHA256: a3de497fa0e95e57c6a555d30e98b0596227c54e8a9ae57073c31e9e0f5b8647
+SHA512: e3094c19ada3ff3c0be85b165aedc7235ce9dd905a5a5220ab3cd09b0a861d0e1ee8f6fe1a348ff5228e1237897976ec08d0acb0190100f0db3b6f882d72f652
+Description: Original music player tweak.
 Name: Momiji
+Depiction: https://sugiuta.github.io/descriptions/momiji/index.html
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Momiji.bundle/icon@2x.png
 
