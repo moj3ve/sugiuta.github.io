@@ -118,25 +118,6 @@ Tag: role::developer
 Name: libKuromi
 Author: sugiuta
 
-Package: com.sugiuta.mochi
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 1404
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi
-Filename: ./debs/com.sugiuta.mochi_0.0.1-1+debug_iphoneos-arm.deb
-Size: 862562
-MD5sum: 1eda4eff9c95a8fd07ccee7ec9e58b92
-SHA1: 56113d31e2b912ead6930f154e4e4af6c593a855
-SHA256: f8f069a0f0165fe66bc8075506b366d97c63157b868b7ccda59febecea0b1b3f
-SHA512: b76142e96f97213724c68191a43256ad33286af52a0c0fedcf3b9cb1eeddc936374a04d1c21133cda5a9bb86c72bab3ce488ac6b313166995139360365c357cb
-Description: Compact music player tweak for iOS14.
-Name: Mochi
-Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
-
 Package: com.sugiuta.momiji
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
