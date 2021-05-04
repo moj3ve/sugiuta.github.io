@@ -211,6 +211,25 @@ Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
 
+Package: com.sugiuta.mochi
+Architecture: iphoneos-arm
+Version: 0.0.4-2+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 1408
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0)
+Filename: ./debs/com.sugiuta.mochi_0.0.4-2+debug_iphoneos-arm.deb
+Size: 863556
+MD5sum: 7ab58e2133be5a335fff23975211ed1a
+SHA1: 082ac36dadc30a7c96b6ff0a6a9c63f8044b2541
+SHA256: 66112574c2be51476b2c05f7c4839b03f9c25e989e943bc07cf435290aa39e65
+SHA512: e56612bda2c68beb7bb3da6a5183eab3aead664da63064e00cb959f09554f27b0f85efbda71aadbb92922a5e288e3f0f3fd8102621e88a254cfc49f8c4227d4b
+Description: Compact music player tweak for iOS14.
+Name: Mochi
+Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
+
 Package: com.sugiuta.momiji
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
