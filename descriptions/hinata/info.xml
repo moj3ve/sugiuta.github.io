@@ -1,0 +1,34 @@
+<package>
+	<id>com.sugiuta.hinata</id>
+	<name>Hinata</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0),com.peterdev.libpddokdo</package>
+	</dependencies>
+	<shortDescription>Custom time & date of lockscreen tweak for iOS14.</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>screenshot 1.</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>screenshot 2.</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
