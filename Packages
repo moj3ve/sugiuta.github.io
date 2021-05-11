@@ -73,14 +73,14 @@ Maintainer: sugiuta
 Installed-Size: 1176
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0),com.peterdev.libpddokdo
 Filename: ./debs/com.sugiuta.hinata_0.0.1-1+debug_iphoneos-arm.deb
-Size: 822456
-MD5sum: d93e6f3fb436c87ead00fd359faa6d34
-SHA1: 7e1a0edd0fa2ccb2b6db88b26e585dbfd53d3c9e
-SHA256: 0d416e65334593e275b8103688ce41d5d140b7877d7c70d5c1180e40389c0544
-SHA512: cc49183328474a1960bc0c2a3150a7fba91996e968c4a90a7d09ecf43d0e7c11fdd2e92076144baef8897bbc4b8dee9e55f58878d1ce3ce9012a75bb2be31bd8
+Size: 822440
+MD5sum: 34e2f2f7231f69f2f81d92498f718023
+SHA1: d05f8e9bff576fed47282fddccb3f4e542268733
+SHA256: f693827678f20497f1ddc6a1b53e4b6b43af53b6bddad2d877d20f4309bc69b7
+SHA512: 1f5c61842de8c9545465274dc547987245e6f6378c531744a9cca616fbc97c9be4aa17e24beeab185c39d5e0856ffdddcd34f1b3127b80f9030237efc55accd5
 Description: Custom lockscreen tweak for iOS14.
 Name: Hinata
-Depiction: https://sugiuta.github.io/descriptions/hinata/index.html
+Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.hinata
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Hinata.bundle/icon@2x.png
 
