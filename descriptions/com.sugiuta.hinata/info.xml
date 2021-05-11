@@ -14,7 +14,7 @@
     </compatibility>
 
       <dependencies>
-		<package>mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0),com.peterdev.libpddokdo</package>
+		<package>mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0), com.peterdev.libpddokdo</package>
 	</dependencies>
 
     <descriptionlist>
