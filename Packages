@@ -48,25 +48,6 @@ Author: sugiuta
 
 Package: com.sugiuta.aoi
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 464
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.sugiuta.libkuromi
-Filename: ./debs/com.sugiuta.aoi_0.0.1-1+debug_iphoneos-arm.deb
-Size: 176594
-MD5sum: 09e9b9bdc936b72cbbc39f72141a563a
-SHA1: 1fca88b3e89356ad8f1964aff4f6240f468c8ce9
-SHA256: 53694401f4e93899aabeea28aed9ce69feae40db4226dcfbefd50d81cebb4901
-SHA512: 3b64434d7fdb4a7f90252f7ca3b51e18e38cd629c1a22f26a35ecd0877c173a878f0ef059b86c0c84f8c58e9c0d6e96af8d477c83a6f41eaf4c1d8d6d90d4c2e
-Description: If you connected bluetooth device, you can open favorite app.
-Name: Aoi
-Depiction: https://sugiuta.github.io/descriptions/aoi/index.html
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Aoi.bundle/icon@2x.png
-
-Package: com.sugiuta.aoi
-Architecture: iphoneos-arm
 Version: 0.0.2-1+debug
 Section: Tweaks
 Maintainer: sugiuta
@@ -83,6 +64,24 @@ Name: Aoi
 Depiction: https://sugiuta.github.io/descriptions/aoi/index.html
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Aoi.bundle/icon@2x.png
+
+Package: com.sugiuta.hinata
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 1176
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0),com.peterdev.libpddokdo
+Filename: ./debs/com.sugiuta.hinata_0.0.1-1+debug_iphoneos-arm.deb
+Size: 822408
+MD5sum: d8f0701d7e46ebcb7f17cccb06937274
+SHA1: dab1499722916c207832578522b6362240d1f993
+SHA256: e056e1924b1f5b9e84c00bb0cbf8ea9a0073fd4d4bdd569fbb71881b7b1ebe1f
+SHA512: 6354a94e71e3ece364b43f01caac56b79d390cc4f387d5a36faf040a6aa73046b96ccdd1b313405f0d84d159cafdc250311def69c3cfca54097fe04ea94f211c
+Description: Custom lockscreen tweak for iOS14.
+Name: Hinata
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Hinata.bundle/icon@2x.png
 
 Package: com.sugiuta.libkuromi
 Architecture: iphoneos-arm
@@ -137,120 +136,6 @@ Author: sugiuta
 
 Package: com.sugiuta.mochi
 Architecture: iphoneos-arm
-Version: 0.0.2-1+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 1404
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0)
-Filename: ./debs/com.sugiuta.mochi_0.0.2-1+debug_iphoneos-arm.deb
-Size: 863764
-MD5sum: 1da5f416dead074fe5c519ce0a6255a5
-SHA1: 592aaa15b280d867d4d2d3b5f5fdfb99a15b1d8a
-SHA256: c6ec52622a1013c90975b52ef269aa8305ffe3c47609f301b9431595f2e33d71
-SHA512: 0eb91fc972312f49c5d34e5baf71035b07b5e936c3ce32db97c8faf02e62bb58e17f7c5e53af458f6b9c63b2abfd7f2f5e4c644055bd65714882e01e6d99a4ee
-Description: Compact music player tweak for iOS14.
-Name: Mochi
-Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
-
-Package: com.sugiuta.mochi
-Architecture: iphoneos-arm
-Version: 0.0.2-2+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 1404
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0)
-Filename: ./debs/com.sugiuta.mochi_0.0.2-2+debug_iphoneos-arm.deb
-Size: 863862
-MD5sum: d5b08e39799ab57bbdce09c42e673966
-SHA1: 46f6035aff10a268bfedb3b5df3600fa3647210f
-SHA256: 97f1e90b098557148530e2562b5d5c5c032e1914a7d0900c95c6da0b4a8b01ac
-SHA512: ca6ffce0880ec72b32d095dfa64fd5b3c8aaee48f4da1ef8ef8e9b3906caad9991ac7daf82c12b690293f70e5a31da145296c751b3096779499bb9682d286158
-Description: Compact music player tweak for iOS14.
-Name: Mochi
-Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
-
-Package: com.sugiuta.mochi
-Architecture: iphoneos-arm
-Version: 0.0.3-1+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 1404
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0)
-Filename: ./debs/com.sugiuta.mochi_0.0.3-1+debug_iphoneos-arm.deb
-Size: 862264
-MD5sum: 676d1921578fc31780d7f54f20abc528
-SHA1: 2d5e7476619d0a83a9ae8abe2577470bebb29a5e
-SHA256: ab7be38572187dcd9e629c72b85f8d6b68a4169a486efefee7fe00bfe5986375
-SHA512: af509a0267155cb9d69c578890955202d07dcf9a336feb3d6eb48569f949e51711a3361795c6b0bbc7bb1f364cc1150123681aa010ad12a2f54e4152984bd150
-Description: Compact music player tweak for iOS14.
-Name: Mochi
-Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
-
-Package: com.sugiuta.mochi
-Architecture: iphoneos-arm
-Version: 0.0.4-1+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 1408
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0)
-Filename: ./debs/com.sugiuta.mochi_0.0.4-1+debug_iphoneos-arm.deb
-Size: 863644
-MD5sum: ed78bc7d86441141d83725306b27c0bc
-SHA1: d649f2d7998753f27dc529bc6a97efecb18f862e
-SHA256: 589661d62292fc30814c2ec60b8a9a331e753ffd708668d007b55ffdb196c68c
-SHA512: 857a390a1517db547eaf3c3f92e834fa80e6e51659ae46fe701be209f979a7b9e593897ea1a878099b9797be8c3e8f144465e17749575021dc66ac326de86fe8
-Description: Compact music player tweak for iOS14.
-Name: Mochi
-Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
-
-Package: com.sugiuta.mochi
-Architecture: iphoneos-arm
-Version: 0.0.4-2+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 1408
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0)
-Filename: ./debs/com.sugiuta.mochi_0.0.4-2+debug_iphoneos-arm.deb
-Size: 863556
-MD5sum: 7ab58e2133be5a335fff23975211ed1a
-SHA1: 082ac36dadc30a7c96b6ff0a6a9c63f8044b2541
-SHA256: 66112574c2be51476b2c05f7c4839b03f9c25e989e943bc07cf435290aa39e65
-SHA512: e56612bda2c68beb7bb3da6a5183eab3aead664da63064e00cb959f09554f27b0f85efbda71aadbb92922a5e288e3f0f3fd8102621e88a254cfc49f8c4227d4b
-Description: Compact music player tweak for iOS14.
-Name: Mochi
-Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
-
-Package: com.sugiuta.mochi
-Architecture: iphoneos-arm
-Version: 0.0.5-1+debug
-Section: Tweaks
-Maintainer: sugiuta
-Installed-Size: 1404
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0)
-Filename: ./debs/com.sugiuta.mochi_0.0.5-1+debug_iphoneos-arm.deb
-Size: 865348
-MD5sum: 4aaf14ac68035d04356e16ddd5fe2b13
-SHA1: 63af9a441a7a98806bc3f39098833dcd5504bd11
-SHA256: 435c898dd1aa1a58a3990fc6de12349862bbb72f281209ac76b8a1badf5c8384
-SHA512: 15586842f8343661f4cc7266ae3904b134416f6cfbe33ac1ee4858eed243692f159a9982c39595b7ea5eb1dae1576928c24df7c4d6a667ac591a0654a65e1719
-Description: Compact music player tweak for iOS14.
-Name: Mochi
-Depiction: https://sugiuta.github.io/descriptions/mochi/index.html
-Author: sugiuta
-Icon: file:///Library/PreferenceBundles/Mochi.bundle/icon@2x.png
-
-Package: com.sugiuta.mochi
-Architecture: iphoneos-arm
 Version: 0.0.5-2+debug
 Section: Tweaks
 Maintainer: sugiuta
@@ -286,120 +171,6 @@ Name: Momiji
 Depiction: https://sugiuta.github.io/descriptions/momiji/index.html
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Momiji.bundle/icon@2x.png
-
-Package: com.sugiuta.nanobanners
-Architecture: iphoneos-arm
-Version: 0.1.4-1+debug
-Section: Tweaks
-Maintainer: Nepeta & Sugiuta
-Installed-Size: 320
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0)
-Filename: ./debs/com.sugiuta.nanobanners_0.1.4-1+debug_iphoneos-arm.deb
-Size: 52740
-MD5sum: 870363b315fa14705e98cb5f91acd22b
-SHA1: 2b9db7bc008a23d2c735953c5ab449b0f9d0be3c
-SHA256: f2d0dd9c53f3df9a3934faf39eb44cbf3d7eb6eac52adce7361c07952fe8f1d2
-SHA512: 8298424f5db3eeb938eb2a7100f350f62ff648fda4f4d30cee18042ad0f445f01c7519e679342e00f6f0e236fb290bc56b45b73d9723e6580095c7691b417a56
-Description: Small banners for iOS 14
-Name: Nanobanners (Sugiuta)
-Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
-Author: Nepeta & Sugiuta
-Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
-
-Package: com.sugiuta.nanobanners
-Architecture: iphoneos-arm
-Version: 0.1.5-1+debug
-Section: Tweaks
-Maintainer: Nepeta & Sugiuta
-Installed-Size: 320
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Filename: ./debs/com.sugiuta.nanobanners_0.1.5-1+debug_iphoneos-arm.deb
-Size: 57298
-MD5sum: 20998e2c0bc5530d98649da957b747f5
-SHA1: a3cc10ac83ece074e7ae87fe59884a5a3bfb153b
-SHA256: 1e40b7def3fd203f1d3b9a1c0b778f56bb3818851084e1cb23b789b40d6c5b51
-SHA512: 04622fed26977eccfe18b9f97064a6a238985512e9b8132dde8b08d96ac7921b17e2c070b0bacff667c5748eabd21710b8db62880ae4576efbe32af353753921
-Description: Small banners for iOS 14
-Name: Nanobanners (Sugiuta)
-Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
-Author: Nepeta & Sugiuta
-Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
-
-Package: com.sugiuta.nanobanners
-Architecture: iphoneos-arm
-Version: 0.1.6-1+debug
-Section: Tweaks
-Maintainer: Nepeta & Sugiuta
-Installed-Size: 328
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Filename: ./debs/com.sugiuta.nanobanners_0.1.6-1+debug_iphoneos-arm.deb
-Size: 63358
-MD5sum: 5ceedb802a54686213e72c6bb3789a68
-SHA1: 02eb0ad1dc25e399aed2607b23c1abb40b0d8bd7
-SHA256: 73e6e63417c52d99343eb46140455dc550077202f0e52d4e66bec6908283fa77
-SHA512: 92a14ea6aa077ac5edf20ef16a68e0ac57102220ec4fd52496f930e379e52bf3f47926e328d65169e03ed7494d5aef1df2e0dd7ee4e8e40cf77cd5b760f41e00
-Description: Small banners for iOS 14
-Name: Nanobanners (Sugiuta)
-Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
-Author: Nepeta & Sugiuta
-Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
-
-Package: com.sugiuta.nanobanners
-Architecture: iphoneos-arm
-Version: 0.1.7-1+debug
-Section: Tweaks
-Maintainer: Nepeta & Sugiuta
-Installed-Size: 328
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Filename: ./debs/com.sugiuta.nanobanners_0.1.7-1+debug_iphoneos-arm.deb
-Size: 66058
-MD5sum: 61031fca4dc552ec1e73dfa1d872ee58
-SHA1: 4cd21b448c477979fd111428e3bf17d1156d1930
-SHA256: a222f82c96ed98ffdddd715cbb074fab4aed12be6ff5cf0ff934098676340990
-SHA512: c242d96a39b50522525a9ba299a97dc90bee33508426031d8011c3c0c93e2f179e431120091351892b97951b8531f14857e240e879adaa8fad3e702de686f95f
-Description: Small banners for iOS 14
-Name: Nanobanners (Sugiuta)
-Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
-Author: Nepeta & Sugiuta
-Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
-
-Package: com.sugiuta.nanobanners
-Architecture: iphoneos-arm
-Version: 0.1.7-2+debug
-Section: Tweaks
-Maintainer: Nepeta & Sugiuta
-Installed-Size: 392
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0), ws.hbang.alderis
-Filename: ./debs/com.sugiuta.nanobanners_0.1.7-2+debug_iphoneos-arm.deb
-Size: 67578
-MD5sum: 2dc794a1df4b41d8f71139c1c9015c22
-SHA1: 9e98748e266417d94318b34a5c75f3ca32ec9b85
-SHA256: 4aef2af811a1084c9fd2863647dc394bf1b77999285d03588d41f368631329a0
-SHA512: a9add5b6e701925c46bd2465d09957d7309dde9b438e59228ae9c9e8c95e8989c4453250f9b59f22ae5f2a4052ea73f9510653416d6bf88915d8deb9332856b8
-Description: Small banners for iOS 14
-Name: Nanobanners (Sugiuta)
-Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
-Author: Nepeta & Sugiuta
-Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
-
-Package: com.sugiuta.nanobanners
-Architecture: iphoneos-arm
-Version: 0.1.8-1+debug
-Section: Tweaks
-Maintainer: Nepeta & Sugiuta
-Installed-Size: 392
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0), ws.hbang.alderis, com.sugiuta.libkuromi
-Filename: ./debs/com.sugiuta.nanobanners_0.1.8-1+debug_iphoneos-arm.deb
-Size: 67862
-MD5sum: f9e3bb425e9b1156287e91382049ccd3
-SHA1: eebca71751d756c9123074da0053ec667e6c30c4
-SHA256: 634830203b44107588289dc05a6fb2a042e5fed8fc6ea0537754b44010a9b5cf
-SHA512: 897af71bd4ba0eb95718fcf98e7fdd3846b0a9156f5116d509ecded57368540cfda53391b4065f019f818086794dd5576134d92e498f43089e8fd253fcbdaf3e
-Description: Small banners for iOS 14
-Name: Nanobanners (Sugiuta)
-Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
-Author: Nepeta & Sugiuta
-Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
 
 Package: com.sugiuta.nanobanners
 Architecture: iphoneos-arm
