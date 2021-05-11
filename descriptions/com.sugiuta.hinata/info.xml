@@ -7,15 +7,16 @@
             <miniOS>14.0</miniOS>
             <maxiOS>14.5</maxiOS>
             <otherVersions>unsupported</otherVersions>
-    <dependencies>
-		<package>mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0),com.peterdev.libpddokdo</package>
-	</dependencies>
             <!--
             for otherVersions, you can put either unsupported or unconfirmed
             -->
         </firmware>
     </compatibility>
-    <dependencies></dependencies>
+
+      <dependencies>
+		<package>mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0),com.peterdev.libpddokdo</package>
+	</dependencies>
+
     <descriptionlist>
         <description>Custom lockscreen tweak for iOS14.</description>
     </descriptionlist>
