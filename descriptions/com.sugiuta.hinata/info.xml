@@ -1,7 +1,7 @@
 <package>
     <id>com.sugiuta.hinata</id>
     <name>Hinata</name>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,7 +22,14 @@
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
-        <change>Initial release.</change>
+       <changes>
+		<version>0.0.2</version>
+		<change>Fixed some bugs.</change>
+		<change>Added 12-Hour mode</change>
+      <change>Added Color Option.</change>
+      <change>Enabled to adjust the position of time and date.</change>
+      <change>Added Locale Option.  You can change the language of the date.</change>
+	 </changes>
     </changelog>
     <links></links>
 </package>

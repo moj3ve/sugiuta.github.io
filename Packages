@@ -84,6 +84,25 @@ Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.hinata
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Hinata.bundle/icon@2x.png
 
+Package: com.sugiuta.hinata
+Architecture: iphoneos-arm
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 1188
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0),com.peterdev.libpddokdo
+Filename: ./debs/com.sugiuta.hinata_0.0.2-1+debug_iphoneos-arm.deb
+Size: 827202
+MD5sum: 9ed16f50e6dd56ce8a262a99cb7714c2
+SHA1: a65d0ae2e6eaaa74c1ef6d8951a9db8ed4697810
+SHA256: b732db37504144bd8baeb433fa0a6cad5f8876e79f5f24ef8c458f76abe09bfb
+SHA512: a8bd3f8df53b14e7c624bb993e963d6f05f12a309cf8a646248d0b75e6c92430885ce1d5acceac848b09f3d5f19bcdefe591a73e05747eee724cecbfb8c27e6b
+Description: Custom lockscreen tweak for iOS14.
+Name: Hinata
+Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.hinata
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Hinata.bundle/icon@2x.png
+
 Package: com.sugiuta.libkuromi
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -130,6 +149,23 @@ MD5sum: 019cb8311feec8b8a43a84b97f1760cc
 SHA1: 0e2ae099f05ab18da471e5b7a77fa49a2e5e7935
 SHA256: 993d1c18f39e277b5e7977056fd4ebd8b5a476cb2bb706c5fe5e8cadf3082a16
 SHA512: e875f080ac8fee39c40731f30960c13096da7f7c3f09669086fe72ac3a60f921b29efacab6db2cb243b06620d540c9d6d05efcb142a9a907f8ba6aa30c8bc648
+Description: Sugiuta's library.
+Tag: role::developer
+Name: libKuromi
+Author: sugiuta
+
+Package: com.sugiuta.libkuromi
+Architecture: iphoneos-arm
+Version: 0.0.5-1+debug
+Section: System
+Maintainer: sugiuta
+Installed-Size: 208
+Filename: ./debs/com.sugiuta.libkuromi_0.0.5-1+debug_iphoneos-arm.deb
+Size: 25232
+MD5sum: 2442caa9470976fa2c17c7c3902c731f
+SHA1: 613359b66d674a01c89e31eac5cd5ee2ab2d68e6
+SHA256: 9b36c1fde028ec8b8e6d266d1ad91d8238e5179a206d3c85af537553bfd2dc7c
+SHA512: db14c5b94e4518cba310b61f7b53d73bd368c68f15d4fb6c3ac335511c5d6afb18f2be6b188144c71899da36f82647ac69ec049e11c891af10ad5e7b93829b15
 Description: Sugiuta's library.
 Tag: role::developer
 Name: libKuromi
