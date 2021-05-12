@@ -103,6 +103,25 @@ Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.hinata
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Hinata.bundle/icon@2x.png
 
+Package: com.sugiuta.hinata
+Architecture: iphoneos-arm
+Version: 0.0.2-2+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 1188
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0),com.peterdev.libpddokdo
+Filename: ./debs/com.sugiuta.hinata_0.0.2-2+debug_iphoneos-arm.deb
+Size: 827216
+MD5sum: 896a73bc141085d95c13fdf889e3d1d6
+SHA1: c5a1c040e67a1039eaae16255509e9715ca9aba6
+SHA256: dbecaa5118887f06c1c00f700760b7803cd67750a2fcb9a3d74d41e885edb0d2
+SHA512: a84e9f52f36ab402067ba162de64e5d5713083a767f103584bb55754e4e2d702ac5f34ed81207a94621e16a4f0df849c16b241d10bd6a0bade8a826614a4f637
+Description: Custom lockscreen tweak for iOS14.
+Name: Hinata
+Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.hinata
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Hinata.bundle/icon@2x.png
+
 Package: com.sugiuta.libkuromi
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
