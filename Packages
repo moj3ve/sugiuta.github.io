@@ -124,67 +124,16 @@ Icon: file:///Library/PreferenceBundles/Hinata.bundle/icon@2x.png
 
 Package: com.sugiuta.libkuromi
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: System
-Maintainer: sugiuta
-Installed-Size: 172
-Filename: ./debs/com.sugiuta.libkuromi_0.0.1-1+debug_iphoneos-arm.deb
-Size: 7786
-MD5sum: ad563b96a29c31cc315cff04cb1ff26d
-SHA1: 7d9a64f5883d3524882a78c8617637d54ee9e6de
-SHA256: 63262e293690b194963a9aadf497286623f34fe7eeb2676dd1d087b6adc338a6
-SHA512: bb71089c5e67afd126d7174fb99ba54e53b96c119fdd16b3b706bb4f89dd81abda9ad452960c84c3bc7057b9eaa899955c0e3583d9d571fed060545978850329
-Description: Sugiuta's library.
-Tag: role::developer
-Name: libKuromi
-Author: sugiuta
-
-Package: com.sugiuta.libkuromi
-Architecture: iphoneos-arm
-Version: 0.0.3-1+debug
-Section: System
-Maintainer: sugiuta
-Installed-Size: 172
-Filename: ./debs/com.sugiuta.libkuromi_0.0.3-1+debug_iphoneos-arm.deb
-Size: 12578
-MD5sum: 8c457a0dc0cc3cf40e23591fe28880f7
-SHA1: d8fa21fc943295331c7592df0013bb46bfa6fcac
-SHA256: 705abe03b58c41b3738e8eaa259c82518a9fc643db5fa5fe643cb1f77f58562e
-SHA512: 4a027063e4f31513f967a20767378242c5b3c42a4226a887df955ee01abd59f51727ba28d71a8a6022db4e28d8150d58b0c5aa97d2b24e3f6e87cb84b6a3fbd3
-Description: Sugiuta's library.
-Tag: role::developer
-Name: libKuromi
-Author: sugiuta
-
-Package: com.sugiuta.libkuromi
-Architecture: iphoneos-arm
-Version: 0.0.4-1+debug
+Version: 0.0.6-1+debug
 Section: System
 Maintainer: sugiuta
 Installed-Size: 208
-Filename: ./debs/com.sugiuta.libkuromi_0.0.4-1+debug_iphoneos-arm.deb
-Size: 24576
-MD5sum: 019cb8311feec8b8a43a84b97f1760cc
-SHA1: 0e2ae099f05ab18da471e5b7a77fa49a2e5e7935
-SHA256: 993d1c18f39e277b5e7977056fd4ebd8b5a476cb2bb706c5fe5e8cadf3082a16
-SHA512: e875f080ac8fee39c40731f30960c13096da7f7c3f09669086fe72ac3a60f921b29efacab6db2cb243b06620d540c9d6d05efcb142a9a907f8ba6aa30c8bc648
-Description: Sugiuta's library.
-Tag: role::developer
-Name: libKuromi
-Author: sugiuta
-
-Package: com.sugiuta.libkuromi
-Architecture: iphoneos-arm
-Version: 0.0.5-1+debug
-Section: System
-Maintainer: sugiuta
-Installed-Size: 208
-Filename: ./debs/com.sugiuta.libkuromi_0.0.5-1+debug_iphoneos-arm.deb
-Size: 25232
-MD5sum: 2442caa9470976fa2c17c7c3902c731f
-SHA1: 613359b66d674a01c89e31eac5cd5ee2ab2d68e6
-SHA256: 9b36c1fde028ec8b8e6d266d1ad91d8238e5179a206d3c85af537553bfd2dc7c
-SHA512: db14c5b94e4518cba310b61f7b53d73bd368c68f15d4fb6c3ac335511c5d6afb18f2be6b188144c71899da36f82647ac69ec049e11c891af10ad5e7b93829b15
+Filename: ./debs/com.sugiuta.libkuromi_0.0.6-1+debug_iphoneos-arm.deb
+Size: 22938
+MD5sum: 40be30c758dd9772a976347920a44b75
+SHA1: 1efcad97fc3d8934068d499db4fff50fd6acd63b
+SHA256: b6e0ea31948324e002d72526e639a7565d576b3d555fb20119a48e55e5472218
+SHA512: c9218e576f0ae1157898929cc8c768c3aef1654240d62cb3676484d31146b4d18e5326c044ce6e5416cba0cad6b9bfec7792de5e625f314e01cfbb078b0b7a27
 Description: Sugiuta's library.
 Tag: role::developer
 Name: libKuromi
@@ -230,17 +179,17 @@ Icon: file:///Library/PreferenceBundles/Momiji.bundle/icon@2x.png
 
 Package: com.sugiuta.nanobanners
 Architecture: iphoneos-arm
-Version: 0.1.9-1+debug
+Version: 0.2.0-1+debug
 Section: Tweaks
 Maintainer: Nepeta & Sugiuta
-Installed-Size: 396
+Installed-Size: 444
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0), ws.hbang.alderis, com.sugiuta.libkuromi
-Filename: ./debs/com.sugiuta.nanobanners_0.1.9-1+debug_iphoneos-arm.deb
-Size: 68648
-MD5sum: f992595d367070b5da4d5f07bde51428
-SHA1: 576059a0f087c3e53548017460cac563f0feb9a5
-SHA256: 2f838217cee26449c61c8892f8c771560e57e63f711ea88c392fae6b66eb36ef
-SHA512: 4134faa8456e8bde3e93843f01015bd7ce37ae5ff29710c21b8e1737a45fbba3d5f28c47281a806df26de0ac691fd62f42ead0f1eb6f7134f463d5323bfac9fa
+Filename: ./debs/com.sugiuta.nanobanners_0.2.0-1+debug_iphoneos-arm.deb
+Size: 71884
+MD5sum: ed2faa3874b37075d3e307d8e5d639d8
+SHA1: 22c15c411da853e9ff7438e1ef9a65c8a7b9a216
+SHA256: 2d41f0fabac94d1c400c38e79659973c6b3288975381623d24449a0c9f8a92c5
+SHA512: b186a7c294cc20213a40b1bac59b997114b703de1d53639befe591ac9aba23d0c7c0c6f8e720278ce7e21cf218405503f30820c456c36112956d7a1ca7838eaf
 Description: Small banners for iOS 14
 Name: Nanobanners (Sugiuta)
 Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
