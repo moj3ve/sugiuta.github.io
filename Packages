@@ -139,6 +139,23 @@ Tag: role::developer
 Name: libKuromi
 Author: sugiuta
 
+Package: com.sugiuta.libkuromi
+Architecture: iphoneos-arm
+Version: 0.0.7-1+debug
+Section: System
+Maintainer: sugiuta
+Installed-Size: 208
+Filename: ./debs/com.sugiuta.libkuromi_0.0.7-1+debug_iphoneos-arm.deb
+Size: 23256
+MD5sum: 6911fa4cbafe2bc6937a8732271e9c28
+SHA1: 8966c865bd489e35d1340060e8ac3a6194736453
+SHA256: 80c86bad58f1d22052f416dd184cff6b11a4f6599ec86e237a5789af9238656e
+SHA512: 8aa357e64f60f19fcc6f44e824ca7611829cf89c4ed9776736ffd1d9291d749dcbdb51996dcaf1a9736120b2c21cd21cebefe3b5211494496d1d900dda3193b3
+Description: Sugiuta's library.
+Tag: role::developer
+Name: libKuromi
+Author: sugiuta
+
 Package: com.sugiuta.mochi
 Architecture: iphoneos-arm
 Version: 0.0.5-2+debug
@@ -190,6 +207,25 @@ MD5sum: ed2faa3874b37075d3e307d8e5d639d8
 SHA1: 22c15c411da853e9ff7438e1ef9a65c8a7b9a216
 SHA256: 2d41f0fabac94d1c400c38e79659973c6b3288975381623d24449a0c9f8a92c5
 SHA512: b186a7c294cc20213a40b1bac59b997114b703de1d53639befe591ac9aba23d0c7c0c6f8e720278ce7e21cf218405503f30820c456c36112956d7a1ca7838eaf
+Description: Small banners for iOS 14
+Name: Nanobanners (Sugiuta)
+Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
+Author: Nepeta & Sugiuta
+Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
+
+Package: com.sugiuta.nanobanners
+Architecture: iphoneos-arm
+Version: 0.2.1-1+debug
+Section: Tweaks
+Maintainer: Nepeta & Sugiuta
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0), ws.hbang.alderis, com.sugiuta.libkuromi
+Filename: ./debs/com.sugiuta.nanobanners_0.2.1-1+debug_iphoneos-arm.deb
+Size: 71934
+MD5sum: 55fe09211c5aa3b969db2a7a623376e9
+SHA1: 395919eed2763f067370604778505e91bfcc1b6e
+SHA256: c7745bc62709a2c86cf4cbc45c5342a6a5eebb0f9176e48b61196b07cc91c259
+SHA512: f410954f86371991bc33e451a1a56831cfaa35e623526bd92e8cea9b2f62037a7ede14ab1e2cf18e555afc509087ef02900b36ed5bc942072177a618ae62320d
 Description: Small banners for iOS 14
 Name: Nanobanners (Sugiuta)
 Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
