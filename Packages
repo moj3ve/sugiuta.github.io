@@ -232,3 +232,22 @@ Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
 Author: Nepeta & Sugiuta
 Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
 
+Package: com.sugiuta.suimitsuto
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 736
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.sugiuta.libkuromi(>= 0.0.7), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.sugiuta.suimitsuto_0.0.1-1+debug_iphoneos-arm.deb
+Size: 259920
+MD5sum: 72d140e84e8ce997d9c8aaa730fb46bf
+SHA1: f74dbb52186816830fce1ab5c9799e549ddb95c0
+SHA256: 4d1bfd6a17395a38c0a5cf8a2cdee8b554e7b2333be3de6cdaae408579790310
+SHA512: 3ad1b97a1fabd841cdab473f65b2d746d94ce8a248f766ace2121604435c9624617a9a731074e139208175b0128653591d229dcec172f1546ef66cd56e3f62ce
+Description: Beautiful notification banner tweak!!
+Name: Suimitsuto
+Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.suimitsuto
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Suimitsuto.bundle/icon@2x.png
+
