@@ -18,8 +18,9 @@
 	</dependencies>
 
     <descriptionlist>
-        <description>Beautiful notification banner for iOS13 & 14.</description>
+        <description>Beautiful notification tweak for iOS13 & 14.</description>
     </descriptionlist>
+    <screenshots></screenshots>
     <changelog>
 		<change>Initial Release.</change>
     </changelog>
