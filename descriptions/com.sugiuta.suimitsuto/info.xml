@@ -12,17 +12,13 @@
             -->
         </firmware>
     </compatibility>
-
-      <dependencies>
-		<package>mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi (>= 0.0.7)</package>
-	</dependencies>
-
+    <dependencies></dependencies>
     <descriptionlist>
-        <description>Beautiful notification banner tweak for iOS13 & 14.</description>
+        <description>Beautiful notification banner tweak for ios13 & 14.</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
-		<change>Initial Release.</change>
+        <change>Initial release.</change>
     </changelog>
     <links></links>
 </package>
