@@ -251,3 +251,22 @@ Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.suimitsuto
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Suimitsuto.bundle/icon@2x.png
 
+Package: com.sugiuta.suimitsuto
+Architecture: iphoneos-arm
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 760
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.sugiuta.libkuromi(>= 0.0.7), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.sugiuta.suimitsuto_0.0.2-1+debug_iphoneos-arm.deb
+Size: 261184
+MD5sum: 980aca62a12375fdee2a6cbd7fe6082b
+SHA1: 229dddcc474be2ff1868ac4e69c7a0f9bc726738
+SHA256: 690dc66161c0053261f5e8b95ca7f622b53ff4a223cb74ec18bb41e8cc7c9283
+SHA512: 5278489b40e858d05acbdd646540112b5259f9403136972a5320755859da0b17a396e1ef8c57154d7ef180cecdc0bf305bf37b855a6544156ad56b7e955c265b
+Description: Beautiful notification banner tweak!!
+Name: Suimitsuto
+Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.suimitsuto
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Suimitsuto.bundle/icon@2x.png
+
