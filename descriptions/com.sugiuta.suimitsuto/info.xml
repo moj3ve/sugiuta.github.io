@@ -4,7 +4,7 @@
     <version>0.0.2</version>
     <compatibility>
         <firmware>
-            <miniOS>13.0</miniOS>
+            <miniOS>14.0</miniOS>
             <maxiOS>14.5</maxiOS>
             <otherVersions>unsupported</otherVersions>
             <!--
@@ -22,9 +22,9 @@
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
-		<change>Added change of banner's position-Y.</change>
-		<change>Added custom scroll animation delay.</change>
-      <change>The text color will be changed automatically according to the background.</change>
+		<change>Fixed some bugs.</change>
+		<change>Added 12-Hour mode</change>
+      <change>Added Color Option.</change>
     </changelog>
     <links></links>
 </package>
