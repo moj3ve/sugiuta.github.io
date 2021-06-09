@@ -24,7 +24,6 @@
     <changelog>
 		<change>Fixed some bugs.</change>
 		<change>Added 12-Hour mode</change>
-      <change>Added Color Option.</change>
     </changelog>
     <links></links>
 </package>
