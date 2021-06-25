@@ -156,6 +156,23 @@ Tag: role::developer
 Name: libKuromi
 Author: sugiuta
 
+Package: com.sugiuta.libkuromi
+Architecture: iphoneos-arm
+Version: 0.0.8-1+debug
+Section: System
+Maintainer: sugiuta
+Installed-Size: 240
+Filename: ./debs/com.sugiuta.libkuromi_0.0.8-1+debug_iphoneos-arm.deb
+Size: 23928
+MD5sum: dee4b011bfc6340b736c03690d0566d2
+SHA1: 7985772ceb2ae05d49c5a5a9b6badd0b44afdfad
+SHA256: 05de236f7f71c9daa16edf7d52fdf21c6c8aeff1d391eaeb66e46837ec80696c
+SHA512: 9ed2c7069ddf0a82547e320eb8298e9a9242c93189e1425741707c384244ec759d345c0ae1642277f6054e25521ae36d6d8f21ef90b7cecd86231cc9fd60b9cf
+Description: Sugiuta's library.
+Tag: role::developer
+Name: libKuromi
+Author: sugiuta
+
 Package: com.sugiuta.mochi
 Architecture: iphoneos-arm
 Version: 0.0.5-2+debug
@@ -264,6 +281,25 @@ MD5sum: 2610a62e88bb81711295d657eacbcd28
 SHA1: 5e773f6d4e2f16b3cb10336095780ba95fc58fbb
 SHA256: cfda3696da541471d8ec480b3baa13400864080a985e6bd7ee1bc5147ae4ad5d
 SHA512: baf2d815efc61350522fe3fd0982637cfd72af7dc42cd570d2242f8f8d96e9ecfa2f6526b6bf3a7a9be10fa068031fe6fe201d201bab5c3da2990ed04e823345
+Description: Beautiful notification banner tweak!!
+Name: Suimitsuto
+Depiction: https://sugiuta.github.io/descriptions/changelog.html?p=com.sugiuta.suimitsuto
+Author: sugiuta
+Icon: file:///Library/PreferenceBundles/Suimitsuto.bundle/icon@2x.png
+
+Package: com.sugiuta.suimitsuto
+Architecture: iphoneos-arm
+Version: 0.0.3-1+debug
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 760
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.sugiuta.libkuromi(>= 0.0.8), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.sugiuta.suimitsuto_0.0.3-1+debug_iphoneos-arm.deb
+Size: 261620
+MD5sum: c87386b32c4089cdef551bac57151814
+SHA1: b99b70479eca07464b93e1f8f077a4310ac051c4
+SHA256: 7d61268a0f3d229e1fc8a53f712429ca7f0835c2d51b16e0ef57c505470f8592
+SHA512: aab4314506a395d18d9acfe5632878545c2750fa4d0c6446c3cf2d51cc1d23d7fd52dfa752c9dcdea2d4e8e0e2b60f05fc9b282c93492278b981c72779712665
 Description: Beautiful notification banner tweak!!
 Name: Suimitsuto
 Depiction: https://sugiuta.github.io/descriptions/changelog.html?p=com.sugiuta.suimitsuto
