@@ -1,4 +1,8 @@
 <changelog>
+	<changes>
+		<version>0.0.3</version>
+      <change>Added custom background amount.</change>
+	</changes>
    <changes>
 		<version>0.0.2</version>
 		<change>Added change of banner's position-Y.</change>
