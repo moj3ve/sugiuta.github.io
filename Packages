@@ -249,6 +249,24 @@ Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
 Author: Nepeta & Sugiuta
 Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
 
+Package: com.sugiuta.strcounter
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sugiuta.strcounter_0.0.1_iphoneos-arm.deb
+Size: 12240
+MD5sum: ca868b8da1e9246c7a122be6c76a035a
+SHA1: c5230c50aeb52daaf2cf2d779adf85656b0361d2
+SHA256: 547c6236a47080bc665d6aa499674c25447f6efa860a8034bfa646cc39f2629b
+SHA512: 98e8c97a8fcbff987eafa50ce75b88658aa1ca598e08d06f6c85b594cfcf2345df81f980f94f629075af76778aa17934b0aa2f3b53199e0ff07e66070eece6f9
+Description: Counts the number of characters in the selected text.
+Name: STRCounter
+Author: sugiuta
+Icon: file:///Library/Application Support/strcounter/icon@2x.png
+
 Package: com.sugiuta.suimitsuto
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
