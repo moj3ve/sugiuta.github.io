@@ -267,6 +267,24 @@ Name: STRCounter
 Author: sugiuta
 Icon: file:///Library/Application Support/strcounter/icon@2x.png
 
+Package: com.sugiuta.strcounter
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sugiuta.strcounter_0.0.2_iphoneos-arm.deb
+Size: 12316
+MD5sum: 6dad5e2436e06548559b95ade5d565a1
+SHA1: 0f6fb02ca0689a7ce5b94d652fb8c2b0ca77c0ba
+SHA256: 2d16d2c91c8bf284277af3301403092ac6da5b6aa96073a459c97715ab7ef494
+SHA512: 7cfc30de76c04a4f2d657a72111602d92a76a3d24b41d87e2bb19ec4266f948cfbcb850accfe0b5d9d653f9452d8e27f943221d570de197face9b609873904db
+Description: Counts the number of characters in the selected text.
+Name: STRCounter
+Author: sugiuta
+Icon: file:///Library/Application Support/strcounter/icon@2x.png
+
 Package: com.sugiuta.suimitsuto
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
