@@ -193,6 +193,23 @@ Tag: role::developer
 Name: libKuromi
 Author: sugiuta
 
+Package: com.sugiuta.libkuromi
+Architecture: iphoneos-arm
+Version: 0.0.9
+Section: System
+Maintainer: sugiuta
+Installed-Size: 280
+Filename: ./debs/com.sugiuta.libkuromi_0.0.9_iphoneos-arm.deb
+Size: 19856
+MD5sum: 8badf80215c5f92cee89c200edd86588
+SHA1: 24522271bb8a19ab6bf40f3041fa4abf56e6be8c
+SHA256: 4e9cc07312e9a9cc3647dcd8992f8e3ea9c7dfeb9028911c2cd4b0a734806f3f
+SHA512: de6738fb4e5ded3f25d917bf83e7e5630e385d6b6aa288425285e3328f348491bbcbf0503a40f9bdba9d3deb97d886c33cb1618f71efbb8591486bd68197690e
+Description: Sugiuta's library.
+Tag: role::developer
+Name: libKuromi
+Author: sugiuta
+
 Package: com.sugiuta.mochi
 Architecture: iphoneos-arm
 Version: 0.0.7
