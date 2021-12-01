@@ -305,6 +305,24 @@ Depiction: https://sugiuta.github.io/descriptions/nanobanners/index.html
 Author: Nepeta & Sugiuta
 Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
 
+Package: com.sugiuta.nextmusic
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 700
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.sugiuta.nextmusic_0.0.1_iphoneos-arm.deb
+Size: 224828
+MD5sum: ee5f2cec09a7d9731dbdcfb8436be7f8
+SHA1: d6af1aa523a4de7449a3c70025a598dbcbb195b5
+SHA256: ba35fbf25d46984f961e4f984060bc177e44b699dd707c9bcc4337384adaac01
+SHA512: f27025f47a5787caf6bea897d914c6b5d120aff0a30fee201cada40c23fd4ebc1e21095446ad09c96e89a4644d1715d69dcaea0c71cbdd30c0050b09df5576b7
+Description: Notify music information with a small banner.
+Name: Next Music
+Author: sugiuta
+Icon: https://sugiuta.github.io/descriptions/com.sugiuta.nextmusic/bigIcon.png
+
 Package: com.sugiuta.strcounter
 Architecture: iphoneos-arm
 Version: 0.0.1
