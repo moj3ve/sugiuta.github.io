@@ -1,5 +1,13 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>
+		<change>Added application blacklist.</change>
+	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>Minor bug fix.</change>
+	</changes>
+	<changes>
 		<version>0.0.1</version>
 		<change>Initial release.</change>
 	</changes>
