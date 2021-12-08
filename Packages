@@ -362,6 +362,25 @@ Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.nextmusic
 Author: sugiuta
 Icon: https://sugiuta.github.io/descriptions/com.sugiuta.nextmusic/bigIcon.png
 
+Package: com.sugiuta.nextmusic
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 708
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.opa334.altlist
+Filename: ./debs/com.sugiuta.nextmusic_0.0.4_iphoneos-arm.deb
+Size: 225388
+MD5sum: f443be23dfe73d23e2fc0a0d3ce384c1
+SHA1: 662ec8c50d9917cf949bbba84aba1d586c375e78
+SHA256: fd760e76053184de7c0262526c1a64644813c711c081aea75f5823cdfc9e0d2f
+SHA512: 316cef44d7e17c627e06764c215b9273ced086467fc7264f3517445a5b66b094f739959f18d59fa45e13c143a4d334e80555b929d5d4bb57a5a7d7b343584e6c
+Description: Notify music information with a small banner.
+Name: Next Music
+Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.nextmusic
+Author: sugiuta
+Icon: https://sugiuta.github.io/descriptions/com.sugiuta.nextmusic/bigIcon.png
+
 Package: com.sugiuta.strcounter
 Architecture: iphoneos-arm
 Version: 0.0.1
